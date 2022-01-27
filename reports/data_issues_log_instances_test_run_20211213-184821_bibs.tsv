@@ -1,2 +1,0 @@
-DATA ISSUE	['017420465']	Non-numeric tags in records	FMT
-RECORD FAILED	Index in bib_example.mrc:1	MARC parsing error: Record length in leader is greater than the length of data	b'\n'
