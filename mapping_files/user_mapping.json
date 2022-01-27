@@ -1,0 +1,111 @@
+{
+    "data": [
+        {
+            "folio_field": "barcode",
+            "legacy_field": "BARCODE"
+        },
+        {
+            "folio_field": "customFields",
+            "legacy_field": ""
+        },
+        {
+            "folio_field": "departments[0]",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "enrollmentDate",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "expirationDate",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "externalSystemId",
+            "legacy_field": "USERNAME"
+        },
+        {
+            "folio_field": "patronGroup",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "personal.addresses[0].addressLine1",
+            "legacy_field": "HOMEADDRESS1"
+        },
+        {
+            "folio_field": "personal.addresses[0].addressLine2",
+            "legacy_field": "HOMEADDRESS2"
+        },
+        {
+            "folio_field": "personal.addresses[0].addressTypeId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "personal.addresses[0].city",
+            "legacy_field": "HOMECITY"
+        },
+        {
+            "folio_field": "personal.addresses[0].countryId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "personal.addresses[0].postalCode",
+            "legacy_field": "HOMEZIP"
+        },
+        {
+            "folio_field": "personal.addresses[0].primaryAddress",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "personal.addresses[0].region",
+            "legacy_field": "HOMESTATE"
+        },
+        {
+            "folio_field": "personal.dateOfBirth",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "personal.email",
+            "legacy_field": "EMAIL"
+        },
+        {
+            "folio_field": "personal.firstName",
+            "legacy_field": "FIRSTNAME"
+        },
+        {
+            "folio_field": "personal.lastName",
+            "legacy_field": "LASTNAME"
+        },
+        {
+            "folio_field": "personal.middleName",
+            "legacy_field": "MIDDLE"
+        },
+        {
+            "folio_field": "personal.mobilePhone",
+            "legacy_field": "MOBILEPHONE"
+        },
+        {
+            "folio_field": "personal.phone",
+            "legacy_field": "PHONE"
+        },
+        {
+            "folio_field": "personal.preferredContactTypeId",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "personal.preferredFirstName",
+            "legacy_field": "Not mapped"
+        },
+        {
+            "folio_field": "username",
+            "legacy_field": "USERNAME"
+        }
+    ],
+    "preferredContactTypeId": "Email",
+    "addressTypes": [
+        "Home Address",
+        "School/Temp Address"
+    ],
+    "emailToUseWhileTesting": "morganm@gvsu.edu",
+    "primaryAddressIndex": 0
+}
