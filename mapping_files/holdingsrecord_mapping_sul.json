@@ -1,0 +1,18 @@
+{
+  "999": [
+    {
+      "target": "callNumberPrefix",
+      "subfield": [
+        "w"
+      ],
+      "description": "Call Number Prefix"
+    },
+    {
+      "target": "callNumber",
+      "subfield": [
+        "a"
+      ],
+      "description": "Call Number"
+    }
+  ]
+}
