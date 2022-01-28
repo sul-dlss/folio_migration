@@ -1,18 +1,17 @@
 {
-  "999": [
-    {
-      "target": "callNumberPrefix",
-      "subfield": [
-        "w"
-      ],
-      "description": "Call Number Prefix"
-    },
-    {
-      "target": "callNumber",
-      "subfield": [
-        "a"
-      ],
-      "description": "Call Number"
-    }
-  ]
+  "sourceFiles": [
+    "https://docs.google.com/spreadsheets/d/1ac95azO1R41_PGkeLhc6uybAKcfpe6XLyd9-F4jqoTo/edit#gid=301923972"
+  ],
+  "defaultLocationCode": "MIGRATION",
+  "rules": {
+    "999": [
+      {
+        "target": "callNumber",
+        "subfield": [
+          "a"
+        ],
+        "rules": []
+      }
+    ]
+  }
 }
