@@ -1,0 +1,57 @@
+{
+  "sourceFiles": [
+    "https://docs.google.com/spreadsheets/d/1ac95azO1R41_PGkeLhc6uybAKcfpe6XLyd9-F4jqoTo/edit#gid=301923972"
+  ],
+  "defaultLocationCode": "MIGRATION",
+  "rules": {
+    "001": [
+      {
+        "target": "formerIds",
+        "description": "",
+        "subfield": []
+      },
+      {
+        "target": "instanceId",
+        "description": "The instance ID",
+        "rules": [
+          {
+            "conditions": [
+              {
+                "type": "set_instance_id_by_map"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "999": [
+      {
+        "target": "callNumber",
+        "subfield": [
+          "a"
+        ],
+        "rules": []
+      },
+      {
+        "target": "permanentLocationId",
+        "description": "",
+        "subfield": [
+          "l",
+          "m"
+        ],
+        "rules": [
+          {
+            "conditions": [
+              {
+                "type": "set_location_id_by_code",
+                "parameter": {
+                  "unspecifiedLocationCode": "EDU-REF"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
