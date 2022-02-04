@@ -1,3 +1,9 @@
-folio_name	Z30_CALL_NO_TYPE
-Dewey Decimal classification	8
-Unmapped	*
+folio_name	CALL_NUMBER_TYPE
+Dewey Decimal classification	DEWEY
+Dewey Decimal classification	DEWEYPER
+Library of Congress classification	LC
+Library of Congress classification	LCPER
+Shelving control number	ALPHANUM
+Shelving control number	ASIS
+Superintendent of Documents classification	SUDOC
+Other scheme	*
