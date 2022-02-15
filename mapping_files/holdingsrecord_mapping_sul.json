@@ -2,7 +2,7 @@
   "data": [
     {
       "folio_field": "callNumber",
-      "legacy_field": "CALL_NUMBER",
+      "legacy_field": "BASE_CALL_NUMBER",
       "value": "",
       "description": "Call Number"
    },
@@ -26,7 +26,7 @@
    },
    {
      "folio_field": "permanentLocationId",
-     "legacy_field": "LOCATION",
+     "legacy_field": "HOMELOCATION",
      "value": "",
      "description": ""
    },
