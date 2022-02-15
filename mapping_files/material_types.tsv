@@ -1,3 +1,16 @@
-folio_name	Z30_MATERIAL
-quantum dot	BOOK
-quantum dot	*
+ITEM_TYPE	folio_name
+STKS-PERI	serial
+NEWSPAPER	serial
+STKS-MONO	book
+DVDCD	dvd
+NH-DVDCD	dvd
+MFILM	microform
+*	book
+PERI	serial
+STKS	book
+SCORE	text
+NH-RCORDNG	sound recording
+LCKSTK-PER	serial
+PERIBND	serial
+PERIUNBND	serial
+ONLINE	electronic resource

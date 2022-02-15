@@ -14,13 +14,13 @@
       },
       {
          "folio_field": "barcode",
-         "legacy_field": "Z30_BARCODE",
+         "legacy_field": "BARCODE",
          "value": "",
-         "description": ""
+         "description": "Barcode"
       },
       {
          "folio_field": "legacyIdentifier",
-         "legacy_field": "Z30_REC_KEY",
+         "legacy_field": "CATKEY",
          "value": "",
          "description": ""
       },
@@ -68,7 +68,7 @@
       },
       {
          "folio_field": "copyNumber",
-         "legacy_field": "Z30_COPY_ID",
+         "legacy_field": "Not mapped",
          "value": "",
          "description": ""
       },
@@ -152,9 +152,9 @@
       },
       {
          "folio_field": "holdingsRecordId",
-         "legacy_field": "Z30_HOL_DOC_NUMBER_X",
+         "legacy_field": "CATKEY",
          "value": "",
-         "description": "Set to Z30_REC_KEY if using holdingsCSVTransformer"
+         "description": ""
       },
       {
          "folio_field": "hrid",
@@ -218,7 +218,7 @@
       },
       {
          "folio_field": "materialTypeId",
-         "legacy_field": "Z30_MATERIAL",
+         "legacy_field": "ITEM_TYPE",
          "value": "",
          "description": ""
       },
@@ -236,37 +236,37 @@
       },
       {
          "folio_field": "notes[0].itemNoteTypeId",
-         "legacy_field": "Z30_NOTE_OPAC",
+         "legacy_field": "Not mapped",
          "value": "5a15e0f8-2802-4cbf-a4de-8f0dedd3ed3a",
          "description": ""
       },
       {
          "folio_field": "notes[0].note",
-         "legacy_field": "Z30_NOTE_OPAC",
+         "legacy_field": "Not mapped",
          "value": "",
          "description": ""
       },
       {
          "folio_field": "notes[0].staffOnly",
-         "legacy_field": "Z30_NOTE_OPAC",
+         "legacy_field": "Not mapped",
          "value": false,
          "description": ""
       },
       {
          "folio_field": "notes[1].itemNoteTypeId",
-         "legacy_field": "Z30_NOTE_INTERNAL",
+         "legacy_field": "Not mapped",
          "value": "bcf59f24-afa2-43dd-b928-e1b9872a96ff",
          "description": ""
       },
       {
          "folio_field": "notes[1].note",
-         "legacy_field": "Z30_NOTE_INTERNAL",
+         "legacy_field": "Not mapped",
          "value": "",
          "description": ""
       },
       {
          "folio_field": "notes[1].staffOnly",
-         "legacy_field": "Z30_NOTE_INTERNAL",
+         "legacy_field": "Not mapped",
          "value": true,
          "description": ""
       },
@@ -284,13 +284,13 @@
       },
       {
          "folio_field": "permanentLoanTypeId",
-         "legacy_field": "Z30_COLLECTION",
+         "legacy_field": "ITEM_TYPE",
          "value": "",
          "description": ""
       },
       {
          "folio_field": "permanentLocationId",
-         "legacy_field": "Z30_SUB_LIBRARY",
+         "legacy_field": "HOMELOCATION",
          "value": "",
          "description": ""
       },
@@ -326,7 +326,7 @@
       },
       {
          "folio_field": "volume",
-         "legacy_field": "Not mapped",
+         "legacy_field": "VOLUME_INFO",
          "value": "",
          "description": ""
       },
