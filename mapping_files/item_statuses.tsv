@@ -1,4 +1,474 @@
 legacy_code	folio_name
-checked_out	Checked out
-available	Available
-lost	Aged to lost
+13TH-FLOOR	Available
+15TH-FLOOR	Available
+1ST-FLOOR	Available
+2ND-FLOOR	Available
+2NDFLR-REF	Available
+3RD-FLOOR	Available
+3RDFLR-REF	Available
+ACAD-DATA	Available
+ARABIC	Available
+ARS-LOAN	Available
+ART-AT-ENG	Available
+ART-LOAN	Awaiting pickup
+ART-RESV	Available
+ARTLCKL	Restricted
+ARTLCKL-R	Restricted
+ARTLCKM	Restricted
+ARTLCKM-R	Restricted
+ARTLCKO	Restricted
+ARTLCKO-R	Restricted
+ARTLCKS	Restricted
+ARTLCKS-R	Restricted
+ARTVAULT	Restricted
+ASK@EASIA	Unknown
+ASK@GSB	Unknown
+ASK@LANE	Unknown
+ASSMD-LOST	Aged to lost
+AT-REPAIR	In process (not requestable)
+ATCIRCDESK	Available
+ATLASES	Available
+AVAIL_SOON	Available
+B&F-HOLD	In process (not requestable)
+BARCHAS	Available
+BASEMENT	Available
+BASEMNT	Available
+BENDER	Available
+BIB-INDEX	Available
+BILLED-OD	Checked out
+BINDERY	In process (not requestable)
+BIO-LOAN	Awaiting pickup
+BIO-RESV	Available
+BIO-TEMP	Available
+BOOKCAB	Available
+BOX-COLL	Available
+BRAN-RESV	Available
+BRIT-DOCS	Available
+BUS-ARCH	Available
+BUS-CMC	Available
+BUS-COMPF	Available
+BUS-LOAN	Awaiting pickup
+BUS-LOCKED	Restricted
+BUS-MAKENA	Available
+BUS-PER	Available
+BUS-POP	Available
+BUS-RESV	Available
+BUS-STACKS	Available
+BUS-TEMP	Available
+BUSDISPLAY	Available
+CALIF-DOCS	Available
+CASE-MP	Available
+CCRMA	Available
+CDL	Restricted
+CDL-2NDFL	Restricted
+CDP	Available
+CDP-CHI	Available
+CDP-GER	Available
+CDP-JUDA	Available
+CDP-LAT	Available
+CDP-ROM	Available
+CDP-SLAV	Available
+CHE-LOAN	Awaiting pickup
+CHECKEDOUT	Checked out
+CHECKSHELF	Available
+CHEM-RESV	Available
+CHINESE	Available
+CHKD-OUT-D	Checked out
+COLL-WORKS	Available
+COMPACT	Available
+COOKBOOK	Available
+COURSE-RES	Available
+COURSE-VID	Available
+CPM-HOLDS	In process (not requestable)
+CROTHERS	Available
+CURRENTPER	Available
+CURRICULUM	Available
+CURRSTOR	Available
+DSPLAY-1ST	Unavailable
+DSPLAY-2ND	Available
+DOMESTIC	Available
+EAL-SETS	Available
+EAL-STKS-C	Available
+EAL-STKS-J	Available
+EAL-STKS-K	Available
+EALSAL-CHN	Available
+EALSAL-JPN	Available
+EALSAL-KOR	Available
+EAR-LOAN	Awaiting pickup
+EARTH-RESV	Available
+EAS-LOAN	Awaiting pickup
+EAS-RESV	Available
+EDI	In process
+EDU-LOAN	Awaiting pickup
+EDU-RESV	Available
+ENDPROCESS	In process
+ENG-LOAN	Awaiting pickup
+ENG-RESV	Available
+ENGDISPLAY	Available
+EQUIPMENT	Available
+EXPEDITION	Restricted
+EYLESAISLE	Available
+FACULTY	Available
+FED-DOCS	Available
+FELT-STOR	Available
+FELTON	Available
+FELTON-30	Available
+FOLIO	Available
+FOLIO-3RD	Available
+FOLIO-BAS	Available
+FOLIO-CHN	Available
+FOLIO-FLAT	Available
+FOLIO-JPN	Available
+FOLIO-KOR	Available
+FOREIGN	Available
+FORN-DOCS	Available
+FRECOT	Available
+GADGETBAR	Available
+GOLDSTAR	Available
+GRE-LOAN	Awaiting pickup
+GREEN-RESV	Available
+GSB-RESV	Available
+GUNST	Available
+GUNST-30	Available
+GUNST-STOR	Available
+HAS-ATLAS	Available
+HAS-CA	Available
+HAS-DIGIT	Available
+HAS-FIC	Available
+HAS-FOLIO	Available
+HAS-JOURN	Available
+HAS-LIT	Available
+HAS-NEWBK	Available
+HAS-RR	Available
+HAS-SU	Available
+HASRC	Available
+HMS-PAGE	In transit
+HMS-RETURN	In transit
+HOLDS	Awaiting pickup
+HOO-LOAN	Awaiting pickup
+HOOV-RESV	Available
+HOP-LOAN	Awaiting pickup
+HOP-RESV	Available
+HV-TRANS	In transit
+HVA-LOAN	Awaiting pickup
+HY-PAGE-EA	Available
+IC	Available
+IC-ATLAS	Available
+IC-CDROM	Available
+IC-DESK	Available
+IC-DISPLAY	Available
+IC-EXHIBIT	Unavailable
+IC-NEWS	Available
+IC-RREF	Available
+IC-STATS	Available
+ILB-LOAN	Awaiting pickup
+ILL	Available
+ILL-OFFICE	Available
+INDEXES	Available
+INPROCESS	In process
+INSHIPPING	In process
+INSTRUCTOR",	Available
+INTCOLLCAT	Available
+INTERNET	Intellectual item
+INTL-DOCS	Available
+INTRANSIT	In transit
+JAPANESE	Available
+KOREAN	Available
+L-PAGE-EA	Restricted
+LAC	In process
+LANE-RESV	Available
+LANG-LAB	Available
+LANG-RESV	Available
+LAW-ARCHIV	Restricted
+LAW-BIND	In process (not requestable)
+LAW-CAREER	Restricted
+LAW-CIRC	Restricted
+LAW-DSPLAY	Restricted
+LAW-LOAN	Awaiting pickup
+LAW-RESV	Available
+LAW-REVIEW	Available
+LAW-SPEC	Available
+LCK-STOR	Restricted
+LCKBYTITL	Restricted
+LEWIS-COLL	Available
+LL-NEWS	Available
+LOAN-DESK	Restricted
+LOCK-CHN	Restricted
+LOCK-HOLDS	Restricted
+LOCK-JPN	Restricted
+LOCK-KOR	Restricted
+LOCK-STK-O	Restricted
+LOCKED-DIS	Restricted
+LOCKED-MAP	Restricted
+LOCKED-STK	Restricted
+LOST-ASSUM	Aged to lost
+LOST-CLAIM	Declared lost
+LOST-PAID	Lost and paid
+MAGAZINE	Available
+MANNING	Available
+MANUSCRIPT	Available
+MAP-CASES	Available
+MAP-FILE	Available
+MAP-REF	Available
+MAP-STOR	Available
+MAPS	Available
+MAT-LOAN	Awaiting pickup
+MATH-ARCH	Restricted
+MATH-RESV	Available
+MATH-TECH	Restricted
+MATH-TEMP	Restricted
+MEDIA	Available
+MEDIA-30	Available
+MEDIA-MTXT	Available
+MEDIA-RESV	Available
+MEDIAX	Available
+MEDIAX-30	Available
+MEDIEVALRM	Available
+MEMLIBMUS	Available
+MEY-LOAN	Awaiting pickup
+MEYER-RESV	Restricted
+MEZZANINE	Restricted
+MEZZ-STOR	Restricted
+MICROFICHE	Available
+MICROFILM	Available
+MICROTEXT	Available
+MINIATURE	Available
+MISS-INPRO	Missing
+MISSING	Missing
+MM-ARTCAB	Available
+MM-BUSCAB	Available
+MM-DIZOCAB	Available
+MM-MATHCAB	Available
+MM-CDCAB	Available
+MM-CMPACT2	Available
+MM-OVERSIZ	Available
+MM-STACKS	Available
+MP-CASE-LG	Available
+MP-CASE-MD	Available
+MP-CASE-RF	Available
+MP-CASE-SM	Available
+MSS-10	Available
+MSS-20	Available
+MSS-30	Available
+MSSX	Available
+MSSX-30	Available
+MUS-LOAN	Awaiting pickup
+MUS-NOCIRC	Restricted
+MUS-TXTBK	Available
+MUSIC-RESV	Available
+ND-PAGE-EA	Available
+NEWBOOKS	Available
+NEWS-STKS	Available
+NEWSPAPERS	Available
+NEWTON	Available
+ON-ORDER	On order
+OPEN-RES	Available
+OUT-TRAVEL	Available
+OVERSIZED	Available
+PAGE-AR	Restricted
+PAGE-AS	Restricted
+PAGE-BU	Available
+PAGE-EA	Restricted
+PAGE-ED	Restricted
+PAGE-EN	Restricted
+PAGE-ES	Restricted
+PAGE-GR	Restricted
+PAGE-HA	Restricted
+PAGE-HP	Restricted
+PAGE-HV	Restricted
+PAGE-IRON	Available
+PAGE-IRON2	Available
+PAGE-LN	Available
+PAGE-LP	Available
+PAGE-LW	Restricted
+PAGE-MD	Restricted
+PAGE-MM	Available
+PAGE-MP	Available
+PAGE-MU	Restricted
+PAGE-RM	Restricted
+PAGE-SI	Restricted
+PAGE-SP	Restricted
+PAGE-TA	Restricted
+PERM-RES	Restricted
+PERSIAN	Available
+PGDFROMSAL	Paged
+PHOTO-PERM	Available
+PHY-LOAN	Awaiting pickup
+PHYS-RESV	Restricted
+PHYSTEMP	Restricted
+POPSCI	Available
+PUB-TECH	Available
+R-FOLIO	Available
+R-FOLIO-FL	Available
+R-MINIATUR	Available
+R-STACKS	Available
+RARE-BOOKS	Available
+RARE-STOR	Available
+RAUB-COLL	Available
+RAUB-NUM	Available
+RBC-30	Available
+RBCX	Available
+RBCX-30	Available
+READING-RM	Available
+READY-REF	Available
+RECORDINGS	Available
+REF-CHN	Available
+REF-DESK	Available
+REF-FOLIO	Available
+REF-JPN	Available
+REF-KOR	Available
+REF-SERIAL	Available
+REFERENCE	Available
+REPAIR	Unavailable
+RESEARCH	Available
+RESERVES	Available
+RESV-DESKS	Available
+RET-REF	Available
+ROB-STOR	Available
+ROBINSON	Available
+RUM-LOAN	Available
+RUMSEY	Available
+RUMSEYREF	Intellectual item
+RUMXEMPLAR	Intellectual item
+RWC-LOAN	Awaiting pickup
+SAFETY	Available
+SAL-ARABIC	Available
+SAL-FOLIO	Available
+SAL-LOAN	Awaiting pickup
+SAL-MUSIC	Available
+SAL-PAGE	Available
+SAL-RETURN	In transit
+SAL-SERG	Available
+SAL-TEMP	Available
+SALTURKISH	Available
+SAMSON	Available
+SCBS	Available
+SCORES	Available
+SCI-LOAN	Awaiting pickup
+SCI-RESV	Available
+SCIFI	Available
+SEE-ARCHIV	Available
+SEE-EASTA	Available
+SEE-LOAN	Available
+SEE-OTHER	Unknown
+SERIALS	Available
+SETS	Available
+SGC	Available
+SHELBYSER	Available
+SHELBYTITL	Available
+SL3-LOAN	Available
+SLN-LOAN	Available
+SOUTH-MEZZ	Available
+SPE-LOAN	Available
+SPEC-INPRO	In process
+SPEC-STOR	Unavailable
+SPECDESK	Available
+SSRC	Available
+SSRC-ANRPT	Available
+SSRC-ATLAS	Available
+SSRC-CLASS	Available
+SSRC-CSLI	Available
+SSRC-CURR	Available
+SSRC-DATA	Available
+SSRC-DESK	Available
+SSRC-DOCS	Available
+SSRC-EDU	Available
+SSRC-FICHE	Available
+SSRC-FILM	Available
+SSRC-NEWBK	Available
+SSRC-NWDOC	Intellectual item
+SSRC-SLS	Intellectual item
+SSRC-STATS	Available
+SSRC-SSDS	Available
+STACKS	Available
+STACKS-1	Available
+STACKS-2	Available
+STACKS-3	Available
+STACKS-30	Available
+STACKS-BW	Unknown
+STAFF	Restricted
+STK-GEMS	Available
+STK-NOCIRC	Available
+STK-SM	Available
+STK-MED	Intellectual item
+STK-LG	Available
+STK-XLG	Available
+STKS1-NEW	Available
+STORAGE	Available
+STORBYTITL	Available
+STUDY-AIDS	Intellectual item
+SUL-BIND	In process (not requestable)
+SUL-LOAN	Intellectual item
+SULBIND-WA	Intellectual item
+E-RESV	Intellectual item
+SW-RESERVE-DESK	Available
+TAN-LOAN	Awaiting pickup
+TANN-RESV	Available
+TAUBE	Available
+TECH-ACQ	Unavailable
+TECH-CAT	Unavailable
+TECH-CONS	Unavailable
+TECH-DESK	Available
+TECH-PROC	Unavailable
+TECH-RPTS	Available
+TECH-SER	Unavailable
+TECH-SERV	Unavailable
+TEMP-LL	Available
+TEMP-LOC	Available
+TERM-COLL	Available
+THEA-STOR	Available
+THEATRE	Available
+THESES	Available
+TIMO-COLL	Available
+TINY	Available
+TRES-LAIR	Available
+TURKISH	Available
+U-ARCHIVES	Available
+UARCH-30	Available
+UARCH-REF	Available
+UARCH-STOR	Available
+UARCHX	Available
+UARCHX-30	Available
+UNCAT	Available
+UNDERGRAD	Available
+UNKNOWN	Unknown
+US-LOCAL	Available
+US-STATE	Available
+VARIES	Unknown
+VAULT	Available
+VROOMAN	Available
+VROOMAN2	Available
+VROOMAN-OV	Available
+W7-ATLASES	Available
+W7-BXLG-HM	Available
+W7-BXO	Available
+W7-BXSM-HM	Available
+W7-CASE-HM	Available
+W7-CASE-MP	Available
+W7-CASE-MT	Available
+W7-CASE-MD	Available
+W7-CATALOG	Available
+W7-CONSERV	Available
+W7-M-CASES	Available
+W7-MAP-BXS	Available
+W7-MAP-BXL	Available
+W7-MAP-XLG	Available
+W7-POCK-LG	Available
+W7-POCK-RG	Available
+W7-ROLLED	Available
+W7-SANBORN	Available
+W7-STK-SM	Available
+W7-STK-MED	Available
+W7-STK-LG	Available
+W7-STK-XLG	Available
+W7-STKS	Available
+W7-STORAGE	Available
+W7-OBJECTS	Available
+W7-FOLIO	Available
+W7-REF	Available
+W7-STAFF	Available
+W7-STFSHD	Available
+W7-FRAME	Available
+W7-POCKET	Available
+WELLNESS	Available
+WEST-7B	Available
