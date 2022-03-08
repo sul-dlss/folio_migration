@@ -1,16 +1,16 @@
 ITEM_TYPE	folio_name
-STKS-PERI	serial
-NEWSPAPER	serial
+STKS-PERI	periodical
+NEWSPAPER	periodical
 STKS-MONO	book
 DVDCD	dvd
 NH-DVDCD	dvd
 MFILM	microform
 *	book
-PERI	serial
+PERI	periodical
 STKS	book
 SCORE	text
 NH-RCORDNG	sound recording
-LCKSTK-PER	serial
-PERIBND	serial
-PERIUNBND	serial
+LCKSTK-PER	periodical
+PERIBND	periodical
+PERIUNBND	periodical
 ONLINE	electronic resource
