@@ -38,13 +38,13 @@
       },
       {
          "folio_field": "circulationNotes[0].note",
-         "legacy_field": "Not mapped",
+         "legacy_field": "CIRCNOTE",
          "value": "",
          "description": ""
       },
       {
          "folio_field": "circulationNotes[0].noteType",
-         "legacy_field": "Not mapped",
+         "legacy_field": "CIRCNOTE",
          "value": "",
          "description": ""
       },
@@ -62,7 +62,7 @@
       },
       {
          "folio_field": "circulationNotes[0].staffOnly",
-         "legacy_field": "Not mapped",
+         "legacy_field": "CIRCSTAF",
          "value": "",
          "description": ""
       },
@@ -236,19 +236,19 @@
       },
       {
          "folio_field": "notes[0].itemNoteTypeId",
-         "legacy_field": "Not mapped",
+         "legacy_field": "PUBLIC",
          "value": "5a15e0f8-2802-4cbf-a4de-8f0dedd3ed3a",
          "description": ""
       },
       {
          "folio_field": "notes[0].note",
-         "legacy_field": "Not mapped",
+         "legacy_field": "PUBLIC",
          "value": "",
          "description": ""
       },
       {
          "folio_field": "notes[0].staffOnly",
-         "legacy_field": "Not mapped",
+         "legacy_field": "TECHSTAFF",
          "value": false,
          "description": ""
       },
