@@ -1,4 +1,4 @@
-legacy_code	folio_name
+CURRENTLOCATION	folio_name
 13TH-FLOOR	Available
 15TH-FLOOR	Available
 1ST-FLOOR	Available
@@ -8,7 +8,7 @@ legacy_code	folio_name
 3RDFLR-REF	Available
 ACAD-DATA	Available
 ARABIC	Available
-ARS-LOAN	Available
+ARS-LOAN	Awaiting pickup
 ART-AT-ENG	Available
 ART-LOAN	Awaiting pickup
 ART-RESV	Available
@@ -21,7 +21,7 @@ ARTLCKO-R	Restricted
 ARTLCKS	Restricted
 ARTLCKS-R	Restricted
 ARTVAULT	Restricted
-ASK@EASIA	Unknown
+ASK@EASIA	Available
 ASK@GSB	Unknown
 ASK@LANE	Unknown
 ASSMD-LOST	Aged to lost
@@ -85,7 +85,7 @@ CURRENTPER	Available
 CURRICULUM	Available
 CURRSTOR	Available
 DSPLAY-1ST	Unavailable
-DSPLAY-2ND	Available
+DSPLAY-2ND	Unavailable
 DOMESTIC	Available
 EAL-SETS	Available
 EAL-STKS-C	Available
@@ -167,7 +167,7 @@ ILL-OFFICE	Available
 INDEXES	Available
 INPROCESS	In process
 INSHIPPING	In process
-INSTRUCTOR",	Available
+INSTRUCTOR	Available
 INTCOLLCAT	Available
 INTERNET	Intellectual item
 INTL-DOCS	Available
@@ -227,7 +227,7 @@ MEDIEVALRM	Available
 MEMLIBMUS	Available
 MEY-LOAN	Awaiting pickup
 MEYER-RESV	Restricted
-MEZZANINE	Restricted
+MEZZANINE	Available
 MEZZ-STOR	Restricted
 MICROFICHE	Available
 MICROFILM	Available
@@ -326,10 +326,10 @@ RESV-DESKS	Available
 RET-REF	Available
 ROB-STOR	Available
 ROBINSON	Available
-RUM-LOAN	Available
+RUM-LOAN	Awaiting pickup
 RUMSEY	Available
-RUMSEYREF	Intellectual item
-RUMXEMPLAR	Intellectual item
+RUMSEYREF	Available
+RUMXEMPLAR	Available
 RWC-LOAN	Awaiting pickup
 SAFETY	Available
 SAL-ARABIC	Available
@@ -349,17 +349,17 @@ SCI-RESV	Available
 SCIFI	Available
 SEE-ARCHIV	Available
 SEE-EASTA	Available
-SEE-LOAN	Available
+SEE-LOAN	Awaiting pickup
 SEE-OTHER	Unknown
 SERIALS	Available
 SETS	Available
 SGC	Available
 SHELBYSER	Available
 SHELBYTITL	Available
-SL3-LOAN	Available
-SLN-LOAN	Available
+SL3-LOAN	Awaiting pickup
+SLN-LOAN	Awaiting pickup
 SOUTH-MEZZ	Available
-SPE-LOAN	Available
+SPE-LOAN	Awaiting pickup
 SPEC-INPRO	In process
 SPEC-STOR	Unavailable
 SPECDESK	Available
@@ -376,8 +376,8 @@ SSRC-EDU	Available
 SSRC-FICHE	Available
 SSRC-FILM	Available
 SSRC-NEWBK	Available
-SSRC-NWDOC	Intellectual item
-SSRC-SLS	Intellectual item
+SSRC-NWDOC	Available
+SSRC-SLS	Available
 SSRC-STATS	Available
 SSRC-SSDS	Available
 STACKS	Available
@@ -388,18 +388,18 @@ STACKS-30	Available
 STACKS-BW	Unknown
 STAFF	Restricted
 STK-GEMS	Available
-STK-NOCIRC	Available
+STK-NOCIRC	Unavailable
 STK-SM	Available
-STK-MED	Intellectual item
+STK-MED	Available
 STK-LG	Available
 STK-XLG	Available
 STKS1-NEW	Available
 STORAGE	Available
 STORBYTITL	Available
-STUDY-AIDS	Intellectual item
+STUDY-AIDS	Available
 SUL-BIND	In process (not requestable)
-SUL-LOAN	Intellectual item
-SULBIND-WA	Intellectual item
+SUL-LOAN	Awaiting pickup
+SULBIND-WA	In process (not requestable)
 E-RESV	Intellectual item
 SW-RESERVE-DESK	Available
 TAN-LOAN	Awaiting pickup
