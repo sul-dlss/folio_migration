@@ -38,7 +38,7 @@
       },
       {
          "folio_field": "circulationNotes[0].note",
-         "legacy_field": "Not mapped",
+         "legacy_field": "CIRCNOTE",
          "value": "",
          "description": ""
       },
@@ -62,8 +62,8 @@
       },
       {
          "folio_field": "circulationNotes[0].staffOnly",
-         "legacy_field": "Not mapped",
-         "value": "",
+         "legacy_field": "CIRCNOTE",
+         "value": true,
          "description": ""
       },
       {
@@ -237,38 +237,38 @@
       {
          "folio_field": "notes[0].itemNoteTypeId",
          "legacy_field": "Not mapped",
-         "value": "5a15e0f8-2802-4cbf-a4de-8f0dedd3ed3a",
+         "value": "079c6747-3297-48db-a96a-524c97b42916",
          "description": ""
       },
       {
          "folio_field": "notes[0].note",
-         "legacy_field": "Not mapped",
+         "legacy_field": "TECHSTAFF",
          "value": "",
-         "description": ""
+         "description": "Technical note not for discovery export"
       },
       {
          "folio_field": "notes[0].staffOnly",
          "legacy_field": "Not mapped",
-         "value": false,
-         "description": ""
+         "value": true,
+         "description": "Tech Staff note"
       },
       {
          "folio_field": "notes[1].itemNoteTypeId",
          "legacy_field": "Not mapped",
-         "value": "bcf59f24-afa2-43dd-b928-e1b9872a96ff",
-         "description": ""
+         "value": "712e0489-0538-4b0a-9db8-ef2132d86eda",
+         "description": "Public"
       },
       {
          "folio_field": "notes[1].note",
-         "legacy_field": "Not mapped",
+         "legacy_field": "PUBLIC",
          "value": "",
-         "description": ""
+         "description": "Item note for discovery export"
       },
       {
          "folio_field": "notes[1].staffOnly",
          "legacy_field": "Not mapped",
-         "value": true,
-         "description": ""
+         "value": false,
+         "description": "Public note"
       },
       {
          "folio_field": "numberOfMissingPieces",
