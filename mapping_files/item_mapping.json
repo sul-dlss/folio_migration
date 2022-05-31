@@ -45,7 +45,7 @@
       {
          "folio_field": "circulationNotes[0].noteType",
          "legacy_field": "Not mapped",
-         "value": "",
+         "value": "Check in",
          "description": ""
       },
       {
