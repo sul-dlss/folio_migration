@@ -1,0 +1,82 @@
+{
+  "data": [
+   {
+    "folio_field": "legacyIdentifier",
+    "legacy_field": "CATKEY",
+    "value": "",
+    "description": "Symphony Cat Key from 001"
+   },
+   {
+    "folio_field": "instanceId",
+    "legacy_field": "CATKEY",
+    "value": "",
+    "description": ""
+   },
+   {
+     "folio_field": "permanentLocationId",
+     "legacy_field": "LOCATION",
+     "value": "",
+     "description": ""
+   },
+   {
+    "folio_field": "formerIds[0]",
+    "legacy_field": "CATKEY",
+    "value": "",
+    "description": ""
+  },
+  {
+    "folio_field": "electronicAccess[0].linkText",
+    "legacy_field": "LINK_TEXT",
+    "value": "",
+    "description": ""
+ },
+ {
+    "folio_field": "electronicAccess[0].materialsSpecification",
+    "legacy_field": "MAT_SPEC",
+    "value": "",
+    "description": ""
+ },
+ {
+    "folio_field": "electronicAccess[0].publicNote",
+    "legacy_field": "PUBLIC_NOTE",
+    "value": "",
+    "description": ""
+ },
+ {
+  "folio_field": "electronicAccess[0].relationshipId",
+  "legacy_field": "Not mapped",
+  "value": "",
+  "description": ""
+},
+{
+  "folio_field": "electronicAccess[0].uri",
+  "legacy_field": "URI",
+  "value": "",
+  "description": ""
+},
+{
+  "folio_field": "notes[0].holdingsNoteTypeId",
+  "legacy_field": "NOTE",
+  "value": "",
+  "description": ""
+},
+{
+  "folio_field": "notes[0].holdingsNoteTypeId",
+  "legacy_field": "NOTE",
+  "value": "",
+  "description": ""
+},
+{
+  "folio_field": "notes[1].holdingsNoteTypeId",
+  "legacy_field": "VENDOR_CODE",
+  "value": "",
+  "description": ""
+},
+{
+  "folio_field": "notes[1].note",
+  "legacy_field": "VENDOR_CODE",
+  "value": "",
+  "description": ""
+}
+  ]
+}
