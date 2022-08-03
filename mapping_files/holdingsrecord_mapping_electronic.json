@@ -14,7 +14,7 @@
    },
    {
      "folio_field": "permanentLocationId",
-     "legacy_field": "LOCATION",
+     "legacy_field": "HOMELOCATION",
      "value": "",
      "description": ""
    },
@@ -44,7 +44,7 @@
  },
  {
   "folio_field": "electronicAccess[0].relationshipId",
-  "legacy_field": "Not mapped",
+  "legacy_field": "RELATIONSHIP",
   "value": "",
   "description": ""
 },
@@ -57,11 +57,11 @@
 {
   "folio_field": "notes[0].holdingsNoteTypeId",
   "legacy_field": "NOTE",
-  "value": "",
+  "value": "b160f13a-ddba-4053-b9c4-60ec5ea45d56",
   "description": ""
 },
 {
-  "folio_field": "notes[0].holdingsNoteTypeId",
+  "folio_field": "notes[0].note",
   "legacy_field": "NOTE",
   "value": "",
   "description": ""
@@ -69,7 +69,7 @@
 {
   "folio_field": "notes[1].holdingsNoteTypeId",
   "legacy_field": "VENDOR_CODE",
-  "value": "",
+  "value": "b160f13a-ddba-4053-b9c4-60ec5ea45d56",
   "description": ""
 },
 {
