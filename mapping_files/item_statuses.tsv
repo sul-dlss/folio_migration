@@ -1,4 +1,4 @@
-CURRENTLOCATION	folio_name
+legacy_code	folio_name
 13TH-FLOOR	Available
 15TH-FLOOR	Available
 1ST-FLOOR	Available
@@ -25,18 +25,18 @@ ASK@EASIA	Available
 ASK@GSB	Unknown
 ASK@LANE	Unknown
 ASSMD-LOST	Aged to lost
-AT-REPAIR	In process (not requestable)
+AT-REPAIR	In process (non-requestable)
 ATCIRCDESK	Available
 ATLASES	Available
 AVAIL_SOON	Available
-B&F-HOLD	In process (not requestable)
+B&F-HOLD	In process (non-requestable)
 BARCHAS	Available
 BASEMENT	Available
 BASEMNT	Available
 BENDER	Available
 BIB-INDEX	Available
 BILLED-OD	Checked out
-BINDERY	In process (not requestable)
+BINDERY	In process (non-requestable)
 BIO-LOAN	Awaiting pickup
 BIO-RESV	Available
 BIO-TEMP	Available
@@ -79,7 +79,7 @@ COMPACT	Available
 COOKBOOK	Available
 COURSE-RES	Available
 COURSE-VID	Available
-CPM-HOLDS	In process (not requestable)
+CPM-HOLDS	In process (non-requestable)
 CROTHERS	Available
 CURRENTPER	Available
 CURRICULUM	Available
@@ -180,7 +180,7 @@ LANE-RESV	Available
 LANG-LAB	Available
 LANG-RESV	Available
 LAW-ARCHIV	Restricted
-LAW-BIND	In process (not requestable)
+LAW-BIND	In process (non-requestable)
 LAW-CAREER	Restricted
 LAW-CIRC	Restricted
 LAW-DSPLAY	Restricted
@@ -397,9 +397,9 @@ STKS1-NEW	Available
 STORAGE	Available
 STORBYTITL	Available
 STUDY-AIDS	Available
-SUL-BIND	In process (not requestable)
+SUL-BIND	In process (non-requestable)
 SUL-LOAN	Awaiting pickup
-SULBIND-WA	In process (not requestable)
+SULBIND-WA	In process (non-requestable)
 E-RESV	Intellectual item
 SW-RESERVE-DESK	Available
 TAN-LOAN	Awaiting pickup
