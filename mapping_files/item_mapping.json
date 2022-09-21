@@ -308,7 +308,7 @@
       },
       {
          "folio_field": "status.name",
-         "legacy_field": "Not mapped",
+         "legacy_field": "CURRENTLOCATION",
          "value": "",
          "description": ""
       },
