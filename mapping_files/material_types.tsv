@@ -8,6 +8,8 @@ CAREERCOLL	book
 CJK	book
 DVDCD	multimedia
 DVDCD	multimedia
+E-MONO	electronic resource
+E-PERI	electronic resource
 EASTK-DOC	book
 EXPEDITION	archival
 GOVSTKS	book
@@ -15,7 +17,7 @@ GUIDE	book
 KIT	kit
 LAW-CRES	book
 LAW-NEW	book
-LAW-PERBND
+LAW-PERBND	periodical
 LAW-STKS	book
 LCKSTK	book
 LCKSTK-EXP	book
@@ -62,6 +64,7 @@ EQUIP150	accessories 1
 EQUIP175	accessories 1
 EQUIP999	portable device 2
 NH-EQP24HR	accessories 1
+NH-EQUIP	portable device 1
 NH-EQUIP1D	accessories 1
 NH-EQUIP4H	accessories 1
 NH-EQUIP7D	laptop
