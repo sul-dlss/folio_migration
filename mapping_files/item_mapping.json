@@ -38,14 +38,14 @@
       },
       {
          "folio_field": "circulationNotes[0].note",
-         "legacy_field": "CIRCNOTE",
+         "legacy_field": "Not mapped",
          "value": "",
          "description": ""
       },
       {
          "folio_field": "circulationNotes[0].noteType",
          "legacy_field": "Not mapped",
-         "value": "Check in",
+         "value": "",
          "description": ""
       },
       {
@@ -62,8 +62,8 @@
       },
       {
          "folio_field": "circulationNotes[0].staffOnly",
-         "legacy_field": "CIRCNOTE",
-         "value": true,
+         "legacy_field": "Not mapped",
+         "value": "",
          "description": ""
       },
       {
@@ -237,38 +237,38 @@
       {
          "folio_field": "notes[0].itemNoteTypeId",
          "legacy_field": "Not mapped",
-         "value": "079c6747-3297-48db-a96a-524c97b42916",
+         "value": "",
          "description": ""
       },
       {
          "folio_field": "notes[0].note",
-         "legacy_field": "TECHSTAFF",
+         "legacy_field": "Not mapped",
          "value": "",
-         "description": "Technical note not for discovery export"
+         "description": ""
       },
       {
          "folio_field": "notes[0].staffOnly",
          "legacy_field": "Not mapped",
-         "value": true,
-         "description": "Tech Staff note"
+         "value": "",
+         "description": ""
       },
       {
          "folio_field": "notes[1].itemNoteTypeId",
          "legacy_field": "Not mapped",
-         "value": "712e0489-0538-4b0a-9db8-ef2132d86eda",
-         "description": "Public"
+         "value": "",
+         "description": ""
       },
       {
          "folio_field": "notes[1].note",
-         "legacy_field": "PUBLIC",
+         "legacy_field": "Not mapped",
          "value": "",
-         "description": "Item note for discovery export"
+         "description": ""
       },
       {
          "folio_field": "notes[1].staffOnly",
          "legacy_field": "Not mapped",
-         "value": false,
-         "description": "Public note"
+         "value": "",
+         "description": ""
       },
       {
          "folio_field": "numberOfMissingPieces",
