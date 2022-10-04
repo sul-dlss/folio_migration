@@ -9,9 +9,7 @@
         "target": "formerIds",
         "description": "",
         "subfield": []
-      }
-    ],
-    "004": [
+      },
       {
         "target": "instanceId",
         "description": "The instance ID",
@@ -24,11 +22,6 @@
             ]
           }
         ]
-      },
-      {
-        "target": "formerIds",
-        "description": "",
-        "subfield": []
       }
     ],
     "506": [
@@ -578,7 +571,8 @@
         "target": "permanentLocationId",
         "description": "",
         "subfield": [
-          "b"
+          "b",
+          "c"
         ],
         "rules": [
           {
@@ -591,7 +585,8 @@
               }
             ]
           }
-        ]
+        ],
+        "applyRulesOnConcatenatedData": true
       },
       {
         "target": "callNumberPrefix",
