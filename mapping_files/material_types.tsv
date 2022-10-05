@@ -6,14 +6,17 @@ ATLAS-EXP	map
 AUDIO	multimedia
 CAREERCOLL	book
 CJK	book
-DVDCD	multimedia
+CLUSTER	software
+DATABASE	database
 DVDCD	multimedia
 E-MONO	electronic resource
 E-PERI	electronic resource
 EASTK-DOC	book
+EDI-REMOVE	book
 EXPEDITION	archival
 GOVSTKS	book
 GUIDE	book
+INDEX	book
 KIT	kit
 LAW-CRES	book
 LAW-NEW	book
@@ -38,9 +41,12 @@ NH-MICR	microform
 NH-PERI	periodical
 NH-RCORDNG	multimedia
 NH-RCRDNG2	multimedia
+NH-RESERVS	text
+NH-RSVIDEO	multimedia
 NH-VIDGAMS	multimedia
 NONCIRC	book
 ONLINE	electronic resource
+PAGE-1DAY	book
 PERI	periodical
 PERI2	periodical
 PERI3	periodical
@@ -49,6 +55,7 @@ PERIBND	periodical
 PERIUNBND	periodical
 POP-COLL	book
 RAUB-COLL	book
+REF	book
 SCORE	score
 SSRC-SSDS	book
 STAFF	book
@@ -56,8 +63,12 @@ STKS	book
 STKS-MONO	book
 STKS-PERI	periodical
 STKS2	book
+STOR	book
+SUL	electronic resource
 THESIS	book
 THESIS-EXP	book
+TIMO-COLL	book
+UNKNOWN	unspecified
 VIDEOGAME	multimedia
 *	book
 EQUIP150	accessories 1
