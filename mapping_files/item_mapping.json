@@ -325,7 +325,7 @@
          "description": ""
       },
       {
-         "folio_field": "volume",
+         "folio_field": "enumeration",
          "legacy_field": "VOLUME_INFO",
          "value": "",
          "description": ""
