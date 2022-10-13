@@ -1,2 +1,5 @@
 folio_name	ITEM_TYPE
+Non-circulating	NONCIRC
+Non-circulating	NH-INHOUSE
+Non-circulating	LIBUSEONLY
 Can circulate	*
