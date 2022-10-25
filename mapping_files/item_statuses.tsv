@@ -24,7 +24,7 @@ ARTVAULT	Restricted
 ASK@EASIA	Available
 ASK@GSB	Unknown
 ASK@LANE	Unknown
-ASSMD-LOST	Aged to lost
+ASSMD-LOST	Available
 AT-REPAIR	In process (non-requestable)
 ATCIRCDESK	Available
 ATLASES	Available
@@ -35,7 +35,7 @@ BASEMENT	Available
 BASEMNT	Available
 BENDER	Available
 BIB-INDEX	Available
-BILLED-OD	Checked out
+BILLED-OD	Available
 BINDERY	In process (non-requestable)
 BIO-LOAN	Awaiting pickup
 BIO-RESV	Available
@@ -69,11 +69,11 @@ CDP-LAT	Available
 CDP-ROM	Available
 CDP-SLAV	Available
 CHE-LOAN	Awaiting pickup
-CHECKEDOUT	Checked out
+CHECKEDOUT	Available
 CHECKSHELF	Available
 CHEM-RESV	Available
 CHINESE	Available
-CHKD-OUT-D	Checked out
+CHKD-OUT-D	Available
 COLL-WORKS	Available
 COMPACT	Available
 COOKBOOK	Available
@@ -201,8 +201,8 @@ LOCK-STK-O	Restricted
 LOCKED-DIS	Restricted
 LOCKED-MAP	Restricted
 LOCKED-STK	Restricted
-LOST-ASSUM	Aged to lost
-LOST-CLAIM	Declared lost
+LOST-ASSUM	Available
+LOST-CLAIM	Available
 LOST-PAID	Lost and paid
 MAGAZINE	Available
 MANNING	Available
