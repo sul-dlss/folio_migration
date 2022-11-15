@@ -139,12 +139,6 @@
          "description": ""
       },
       {
-         "folio_field": "enumeration",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
          "folio_field": "formerIds[0]",
          "legacy_field": "Not mapped",
          "value": "",
