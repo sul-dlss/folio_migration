@@ -68,7 +68,7 @@
       },
       {
          "folio_field": "copyNumber",
-         "legacy_field": "Not mapped",
+         "legacy_field": "COPY",
          "value": "",
          "description": ""
       },
