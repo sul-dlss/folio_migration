@@ -12,14 +12,14 @@ ARS-LOAN	Awaiting pickup
 ART-AT-ENG	Available
 ART-LOAN	Awaiting pickup
 ART-RESV	Available
-ARTLCKL	Restricted
-ARTLCKL-R	Restricted
-ARTLCKM	Restricted
-ARTLCKM-R	Restricted
-ARTLCKO	Restricted
-ARTLCKO-R	Restricted
-ARTLCKS	Restricted
-ARTLCKS-R	Restricted
+ARTLCKL	Available
+ARTLCKL-R	Available
+ARTLCKM	Available
+ARTLCKM-R	Available
+ARTLCKO	Available
+ARTLCKO-R	Available
+ARTLCKS	Available
+ARTLCKS-R	Available
 ARTVAULT	Restricted
 ASK@EASIA	Available
 ASK@GSB	Unknown
@@ -48,7 +48,7 @@ BUS-ARCH	Available
 BUS-CMC	Available
 BUS-COMPF	Available
 BUS-LOAN	Awaiting pickup
-BUS-LOCKED	Restricted
+BUS-LOCKED	Available
 BUS-MAKENA	Available
 BUS-PER	Available
 BUS-POP	Available
@@ -59,8 +59,8 @@ BUSDISPLAY	Available
 CALIF-DOCS	Available
 CASE-MP	Available
 CCRMA	Available
-CDL	Restricted
-CDL-2NDFL	Restricted
+CDL	Available
+CDL-2NDFL	Available
 CDP	Available
 CDP-CHI	Available
 CDP-GER	Available
@@ -188,19 +188,19 @@ LAW-LOAN	Awaiting pickup
 LAW-RESV	Available
 LAW-REVIEW	Available
 LAW-SPEC	Available
-LCK-STOR	Restricted
-LCKBYTITL	Restricted
+LCK-STOR	Available
+LCKBYTITL	Available
 LEWIS-COLL	Available
 LL-NEWS	Available
 LOAN-DESK	Restricted
-LOCK-CHN	Restricted
-LOCK-HOLDS	Restricted
-LOCK-JPN	Restricted
-LOCK-KOR	Restricted
-LOCK-STK-O	Restricted
-LOCKED-DIS	Restricted
-LOCKED-MAP	Restricted
-LOCKED-STK	Restricted
+LOCK-CHN	Available
+LOCK-HOLDS	Available
+LOCK-JPN	Available
+LOCK-KOR	Available
+LOCK-STK-O	Available
+LOCKED-DIS	Available
+LOCKED-MAP	Available
+LOCKED-STK	Available
 LOST-ASSUM	Available
 LOST-CLAIM	Available
 LOST-PAID	Lost and paid
