@@ -25,6 +25,12 @@
          "description": ""
       },
       {
+         "folio_field": "legacyIdentifier",
+         "legacy_field": "BARCODE",
+         "value": "",
+         "description": ""
+      },
+      {
          "folio_field": "chronology",
          "legacy_field": "Not mapped",
          "value": "",
