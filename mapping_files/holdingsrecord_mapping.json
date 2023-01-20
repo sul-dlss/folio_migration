@@ -19,6 +19,12 @@
     "description": "Symphony Cat Key from 001"
    },
    {
+    "folio_field": "legacyIdentifier",
+    "legacy_field": "BARCODE",
+    "value": "",
+    "description": ""
+   },
+   {
     "folio_field": "instanceId",
     "legacy_field": "CATKEY",
     "value": "",
