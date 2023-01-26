@@ -20,7 +20,7 @@
       },
       {
          "folio_field": "legacyIdentifier",
-         "legacy_field": "BARCODE",
+         "legacy_field": "CATKEY",
          "value": "",
          "description": ""
       },
