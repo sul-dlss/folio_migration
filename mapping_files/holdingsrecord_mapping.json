@@ -20,7 +20,7 @@
    },
    {
     "folio_field": "legacyIdentifier",
-    "legacy_field": "BARCODE",
+    "legacy_field": "CALL_SEQ",
     "value": "",
     "description": ""
    },
@@ -41,6 +41,12 @@
     "legacy_field": "CATKEY",
     "value": "",
     "description": ""
- }
+ },
+ {
+  "folio_field": "formerIds[0]",
+  "legacy_field": "CALL_SEQ",
+  "value": "",
+  "description": ""
+}
   ]
 }

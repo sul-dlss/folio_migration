@@ -1,334 +1,340 @@
 {
-   "data": [
-      {
-         "folio_field": "_version",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "accessionNumber",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "barcode",
-         "legacy_field": "BARCODE",
-         "value": "",
-         "description": "Barcode"
-      },
-      {
-         "folio_field": "legacyIdentifier",
-         "legacy_field": "BARCODE",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "chronology",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "circulationNotes[0].date",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "circulationNotes[0].note",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "circulationNotes[0].noteType",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "circulationNotes[0].source.personal.firstName",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "circulationNotes[0].source.personal.lastName",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "circulationNotes[0].staffOnly",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "copyNumber",
-         "legacy_field": "COPY",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "descriptionOfPieces",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "discoverySuppress",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "effectiveCallNumberComponents.callNumber",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "effectiveCallNumberComponents.prefix",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "effectiveCallNumberComponents.suffix",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "effectiveShelvingOrder",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "electronicAccess[0].linkText",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "electronicAccess[0].materialsSpecification",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "electronicAccess[0].publicNote",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "electronicAccess[0].relationshipId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "electronicAccess[0].uri",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "formerIds[0]",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "holdingsRecordId",
-         "legacy_field": "CATKEY",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "hrid",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "inTransitDestinationServicePointId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemDamagedStatusDate",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemDamagedStatusId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemIdentifier",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemLevelCallNumber",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemLevelCallNumberPrefix",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemLevelCallNumberSuffix",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "itemLevelCallNumberTypeId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "lastCheckIn.dateTime",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "materialTypeId",
-         "legacy_field": "ITEM_TYPE",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "missingPieces",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "missingPiecesDate",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "notes[0].itemNoteTypeId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "notes[0].note",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "notes[0].staffOnly",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "notes[1].itemNoteTypeId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "notes[1].note",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "notes[1].staffOnly",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "numberOfMissingPieces",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "numberOfPieces",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "permanentLoanTypeId",
-         "legacy_field": "ITEM_TYPE",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "permanentLocationId",
-         "legacy_field": "HOMELOCATION",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "purchaseOrderLineIdentifier",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "status.date",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "status.name",
-         "legacy_field": "CURRENTLOCATION",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "temporaryLoanTypeId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "temporaryLocationId",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "enumeration",
-         "legacy_field": "VOLUME_INFO",
-         "value": "",
-         "description": ""
-      },
-      {
-         "folio_field": "yearCaption[0]",
-         "legacy_field": "Not mapped",
-         "value": "",
-         "description": ""
-      }
-   ]
+  "data": [
+    {
+      "folio_field": "_version",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "accessionNumber",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "barcode",
+      "legacy_field": "BARCODE",
+      "value": "",
+      "description": "Barcode"
+    },
+    {
+      "folio_field": "legacyIdentifier",
+      "legacy_field": "BARCODE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "chronology",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "circulationNotes[0].date",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "circulationNotes[0].note",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "circulationNotes[0].noteType",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "circulationNotes[0].source.personal.firstName",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "circulationNotes[0].source.personal.lastName",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "circulationNotes[0].staffOnly",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "copyNumber",
+      "legacy_field": "COPY",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "descriptionOfPieces",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "discoverySuppress",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "effectiveCallNumberComponents.callNumber",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "effectiveCallNumberComponents.prefix",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "effectiveCallNumberComponents.suffix",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "effectiveShelvingOrder",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "electronicAccess[0].linkText",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "electronicAccess[0].materialsSpecification",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "electronicAccess[0].publicNote",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "electronicAccess[0].relationshipId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "electronicAccess[0].uri",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "formerIds[0]",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "holdingsRecordId",
+      "legacy_field": "CATKEY",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "hrid",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "inTransitDestinationServicePointId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemDamagedStatusDate",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemDamagedStatusId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemIdentifier",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemLevelCallNumber",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemLevelCallNumberPrefix",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemLevelCallNumberSuffix",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "itemLevelCallNumberTypeId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "lastCheckIn.dateTime",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "materialTypeId",
+      "legacy_field": "ITEM_TYPE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "missingPieces",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "missingPiecesDate",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].itemNoteTypeId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].note",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].staffOnly",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].itemNoteTypeId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].note",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].staffOnly",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "numberOfMissingPieces",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "numberOfPieces",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "permanentLoanTypeId",
+      "legacy_field": "ITEM_TYPE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "permanentLocationId",
+      "legacy_field": "HOMELOCATION",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "purchaseOrderLineIdentifier",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "status.date",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "status.name",
+      "legacy_field": "CURRENTLOCATION",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "temporaryLoanTypeId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "temporaryLocationId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "enumeration",
+      "legacy_field": "VOLUME_INFO",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "yearCaption[0]",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "holdingsRecordId",
+      "legacy_field": "CALL_SEQ",
+      "value": "",
+      "description": ""
+    }
+  ]
 }
