@@ -335,6 +335,12 @@
       "legacy_field": "CALL_SEQ",
       "value": "",
       "description": ""
+    },
+    {
+      "folio_field": "statisticalCodeIds",
+      "legacy_field": "ITEM_CAT1",
+      "value": "",
+      "description": ""
     }
   ]
 }
