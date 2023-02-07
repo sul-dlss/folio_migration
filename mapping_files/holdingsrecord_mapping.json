@@ -25,6 +25,12 @@
     "description": ""
    },
    {
+    "folio_field": "legacyIdentifier",
+    "legacy_field": "COPY",
+    "value": "",
+    "description": ""
+   },
+   {
     "folio_field": "instanceId",
     "legacy_field": "CATKEY",
     "value": "",
@@ -47,6 +53,12 @@
   "legacy_field": "CALL_SEQ",
   "value": "",
   "description": ""
-}
+},
+{
+  "folio_field": "formerIds[0]",
+  "legacy_field": "COPY",
+  "value": "",
+  "description": ""
+  }
   ]
 }

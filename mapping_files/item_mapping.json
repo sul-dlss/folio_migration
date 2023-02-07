@@ -337,6 +337,12 @@
       "description": ""
     },
     {
+      "folio_field": "holdingsRecordId",
+      "legacy_field": "COPY",
+      "value": "",
+      "description": ""
+    },
+    {
       "folio_field": "statisticalCodeIds",
       "legacy_field": "ITEM_CAT1",
       "value": "",
