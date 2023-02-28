@@ -272,7 +272,7 @@
       },
       {
          "folio_field": "numberOfPieces",
-         "legacy_field": "Not mapped",
+         "legacy_field": "PIECES",
          "value": "",
          "description": ""
       },
