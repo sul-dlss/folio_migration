@@ -151,6 +151,18 @@
          "description": ""
       },
       {
+         "folio_field": "holdingsRecordId",
+         "legacy_field": "CALL_SEQ",
+         "value": "",
+         "description": ""
+       },
+       {
+         "folio_field": "holdingsRecordId",
+         "legacy_field": "COPY",
+         "value": "",
+         "description": ""
+       },
+      {
          "folio_field": "hrid",
          "legacy_field": "Not mapped",
          "value": "",
