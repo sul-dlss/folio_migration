@@ -1,5 +1,4 @@
 ITEM_TYPE	folio_name
-*	book
 ARCHIVE	archival
 ARCHIVEREF	archival
 ATLAS	map
@@ -7,16 +6,18 @@ ATLAS-EXP	map
 AUDIO	multimedia
 CAREERCOLL	book
 CJK	book
-CLUSTER	software
-DATABASE	database
+CLUSTER	electronic resource
+DATABASE	electronic resource
 DVDCD	multimedia
 E-MONO	electronic resource
 E-PERI	electronic resource
 EASTK-DOC	book
 EDI-REMOVE	book
 EQUIP150	accessories 1
+EQUIP150	accessories 2
 EQUIP175	accessories 1
-EQUIP999	portable device 2
+EQUIP175	accessories 2
+EQUIP999	accessories 3
 EXPEDITION	archival
 GOVSTKS	book
 GUIDE	book
@@ -70,14 +71,34 @@ NH-7DAY SERIAL	periodical
 NH-7DAY VM	multimedia
 NH-DVDCD	multimedia
 NH-EQP24HR	accessories 1
+NH-EQP24HR	accessories 2
+NH-EQP24HR	accessories 4
+NH-EQP24HR	av equipment 1
+NH-EQP24HR	av equipment 3
+NH-EQUIP	accessories 1
+NH-EQUIP	accessories 3
+NH-EQUIP	av equipment 3
+NH-EQUIP	laptop
 NH-EQUIP	portable device 1
 NH-EQUIP1D	accessories 1
+NH-EQUIP1D	portable device 2
 NH-EQUIP4H	accessories 1
+NH-EQUIP4H	accessories 3
+NH-EQUIP4H	library equipment 2
+NH-EQUIP7D	av equipment 3
 NH-EQUIP7D	laptop
 NH-EQUP050	accessories 1
 NH-EQUP200	library equipment 3
+NH-EQUP200	portable device 1
+NH-EQUP400	av equipment 1
+NH-EQUP400	library equipment 1
+NH-EQUP400	library equipment 3
 NH-EQUP400	portable device 1
+NH-EQUP400	portable device 2
+NH-EQUP600	accessories 3
 NH-EQUP600	av equipment 1
+NH-EQUP600	av equipment 2
+NH-EQUP600	portable device 1
 NH-EQUP999	library equipment 3
 NH-INHOUSE MANUSCRPT	archival
 NH-INHOUSE MAP	map
@@ -99,10 +120,11 @@ NH-MEDSTKS VM	multimedia
 NH-MICR	microform
 NH-PERI	periodical
 NH-PERMRES	accessories 1
+NH-PERMRES	av equipment 1
+NH-PERMRES	portable device 1
 NH-RCORDNG	multimedia
 NH-RCRDNG2	multimedia
-NH-RESERVS	text
-NH-RSVIDEO	multimedia
+NH-RESERVS	book
 NH-VIDGAMS	multimedia
 NONCIRC	book
 NONCIRC MANUSCRPT HOOVER	archival
@@ -168,7 +190,6 @@ SUL	electronic resource
 THESIS	book
 THESIS-EXP	book
 TIMO-COLL	book
-UNKNOWN	unspecified
 VAULT MANUSCRPT HOOVER	archival
 VAULT MANUSCRPT HV-ARCHIVE	archival
 VAULT MAP HOOVER	map
