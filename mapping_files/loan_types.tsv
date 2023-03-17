@@ -1,5 +1,6 @@
 folio_name	ITEM_TYPE	LIBRARY
 curricshortloan7	NH-7DAY	EDUCATION
+lckstk-expensive	LCKSTK-EXP	EARTH-SCI
 Can circulate	*	*
 Non-circulating	*	SPEC-COLL
 Non-circulating	*	HV-ARCHIVE
