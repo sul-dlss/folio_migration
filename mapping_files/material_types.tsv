@@ -54,7 +54,7 @@ LIBUSEONLY	VM	HOOVER	book
 LIBUSEONLY	VM	HV-ARCHIVE	book
 MANUSCRIPT	*	*	archival
 MEDIA	*	*	multimedia
-MEDSTKS	*	*	book
+MEDSTKS	*	*	multimedia
 MFICHE	*	*	microform
 MFILM	*	*	microform
 MICROFORM	*	*	microform
@@ -69,14 +69,14 @@ NH-7DAY	SERIAL	*	periodical
 NH-7DAY	VM	*	multimedia
 NH-DVDCD	*	*	multimedia
 NH-EQP24HR	*	*	accessories 1
-NH-EQUIP	*	*	accessories 1
+NH-EQUIP	*	*	portable device 1
 NH-EQUIP1D	*	*	accessories 1
 NH-EQUIP4H	*	*	accessories 1
-NH-EQUIP7D	*	*	av equipment 3
+NH-EQUIP7D	*	*	laptop
 NH-EQUP050	*	*	accessories 1
 NH-EQUP200	*	*	library equipment 3
-NH-EQUP400	*	*	av equipment 1
-NH-EQUP600	*	*	accessories 3
+NH-EQUP400	*	*	portable device 1
+NH-EQUP600	*	*	av equipment 1
 NH-EQUP999	*	*	library equipment 3
 NH-INHOUSE	MANUSCRPT	*	archival
 NH-INHOUSE	MAP	*	map
