@@ -1,5 +1,10 @@
-folio_name	ITEM_TYPE
-Non-circulating	NONCIRC
-Non-circulating	NH-INHOUSE
-Non-circulating	LIBUSEONLY
-Can circulate	*
+folio_name	ITEM_TYPE	LIBRARY
+curricshortloan7	NH-7DAY	EDUCATION
+lckstk-expensive	LCKSTK-EXP	EARTH-SCI
+Can circulate	*	*
+Non-circulating	*	SPEC-COLL
+Non-circulating	*	HV-ARCHIVE
+Non-circulating	*	HOOVER
+Non-circulating	LIBUSEONLY	*
+Non-circulating	NONCIRC	*
+Non-circulating	NH-INHOUSE	*

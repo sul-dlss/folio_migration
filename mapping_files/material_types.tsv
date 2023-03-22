@@ -1,188 +1,185 @@
-ITEM_TYPE	folio_name
-ARCHIVE	archival
-ARCHIVEREF	archival
-ATLAS	map
-ATLAS-EXP	map
-AUDIO	multimedia
-CAREERCOLL	book
-CJK	book
-CLUSTER	software
-DATABASE	database
-DVDCD	multimedia
-E-MONO	electronic resource
-E-PERI	electronic resource
-EASTK-DOC	book
-EDI-REMOVE	book
-EXPEDITION	archival
-GOVSTKS	book
-GUIDE	book
-INDEX	book
-KIT	kit
-LAW-CRES	book
-LAW-NEW	book
-LAW-PERBND	periodical
-LAW-STKS	book
-LCKSTK	book
-LCKSTK-EXP	book
-LCKSTK-PER	periodical
-LCKSTK-RST	archival
-MANUSCRIPT	archival
-MEDIA	multimedia
-MEDSTKS	book
-MEDSTKS	multimedia
-MFICHE	microform
-MFILM	microform
-MICROFORM	microform
-NEWBOOK	book
-NEWSPAPER	periodical
-NH-DVDCD	multimedia
-NH-MAP	map
-NH-MICR	microform
-NH-PERI	periodical
-NH-RCORDNG	multimedia
-NH-RCRDNG2	multimedia
-NH-RESERVS	text
-NH-RSVIDEO	multimedia
-NH-VIDGAMS	multimedia
-NONCIRC	book
-ONLINE	electronic resource
-PAGE-1DAY	book
-PERI	periodical
-PERI2	periodical
-PERI3	periodical
-PERI4	periodical
-PERIBND	periodical
-PERIUNBND	periodical
-POP-COLL	book
-RAUB-COLL	book
-REF	book
-SCORE	score
-SSRC-SSDS	book
-STAFF	book
-STKS	book
-STKS-MONO	book
-STKS-PERI	periodical
-STKS2	book
-STOR	book
-SUL	electronic resource
-THESIS	book
-THESIS-EXP	book
-TIMO-COLL	book
-UNKNOWN	unspecified
-VIDEOGAME	multimedia
-*	book
-EQUIP150	accessories 1
-EQUIP175	accessories 1
-EQUIP999	portable device 2
-NH-EQP24HR	accessories 1
-NH-EQUIP	portable device 1
-NH-EQUIP1D	accessories 1
-NH-EQUIP4H	accessories 1
-NH-EQUIP7D	laptop
-NH-EQUP050	accessories 1
-NH-EQUP200	library equipment 3
-NH-EQUP400	portable device 1
-NH-EQUP600	av equipment 1
-NH-EQUP999	library equipment 3
-NH-PERMRES	accessories 1
-LIBUSEONLY MANUSCRPT HOOVER	archival
-LIBUSEONLY MAP HOOVER	map
-LIBUSEONLY MARC HOOVER	book
-LIBUSEONLY MRDF HOOVER	electronic resource
-LIBUSEONLY RECORDING HOOVER	multimedia
-LIBUSEONLY SCORE HOOVER	score
-LIBUSEONLY SERIAL HOOVER	periodical
-LIBUSEONLY VM HOOVER	book
-NONCIRC MANUSCRPT HOOVER	archival
-NONCIRC MAP HOOVER	map
-NONCIRC MARC HOOVER	book
-NONCIRC MRDF HOOVER	electronic resource
-NONCIRC RECORDING HOOVER	multimedia
-NONCIRC SCORE HOOVER	score
-NONCIRC SERIAL HOOVER	periodical
-NONCIRC VM HOOVER	book
-REF MANUSCRPT HOOVER	archival
-REF MAP HOOVER	map
-REF MARC HOOVER	book
-REF MRDF HOOVER	electronic resource
-REF RECORDING HOOVER	multimedia
-REF SCORE HOOVER	score
-REF SERIAL HOOVER	periodical
-REF VM HOOVER	book
-STKS MANUSCRPT HOOVER	archival
-STKS MAP HOOVER	map
-STKS MARC HOOVER	book
-STKS MRDF HOOVER	electronic resource
-STKS RECORDING HOOVER	multimedia
-STKS SCORE HOOVER	score
-STKS SERIAL HOOVER	periodical
-STKS VM HOOVER	book
-VAULT MANUSCRPT HOOVER	archival
-VAULT MAP HOOVER	map
-VAULT MARC HOOVER	book
-VAULT MRDF HOOVER	electronic resource
-VAULT RECORDING HOOVER	multimedia
-VAULT SCORE HOOVER	score
-VAULT SERIAL HOOVER	periodical
-VAULT VM HOOVER	book
-LIBUSEONLY MANUSCRPT HV-ARCHIVE	archival
-LIBUSEONLY MAP HV-ARCHIVE	map
-LIBUSEONLY MARC HV-ARCHIVE	book
-LIBUSEONLY MRDF HV-ARCHIVE	electronic resource
-LIBUSEONLY RECORDING HV-ARCHIVE	multimedia
-LIBUSEONLY SCORE HV-ARCHIVE	score
-LIBUSEONLY SERIAL HV-ARCHIVE	periodical
-LIBUSEONLY VM HV-ARCHIVE	book
-NONCIRC MANUSCRPT HV-ARCHIVE	archival
-NONCIRC MAP HV-ARCHIVE	map
-NONCIRC MARC HV-ARCHIVE	book
-NONCIRC MRDF HV-ARCHIVE	electronic resource
-NONCIRC RECORDING HV-ARCHIVE	multimedia
-NONCIRC SCORE HV-ARCHIVE	score
-NONCIRC SERIAL HV-ARCHIVE	periodical
-NONCIRC VM HV-ARCHIVE	book
-STKS MANUSCRPT HV-ARCHIVE	archival
-STKS MAP HV-ARCHIVE	map
-STKS MARC HV-ARCHIVE	book
-STKS MRDF HV-ARCHIVE	electronic resource
-STKS RECORDING HV-ARCHIVE	multimedia
-STKS SCORE HV-ARCHIVE	score
-STKS SERIAL HV-ARCHIVE	periodical
-STKS VM HV-ARCHIVE	book
-VAULT MANUSCRPT HV-ARCHIVE	archival
-VAULT MAP HV-ARCHIVE	map
-VAULT MARC HV-ARCHIVE	book
-VAULT MRDF HV-ARCHIVE	electronic resource
-VAULT RECORDING HV-ARCHIVE	multimedia
-VAULT SCORE HV-ARCHIVE	score
-VAULT SERIAL HV-ARCHIVE	periodical
-VAULT VM HV-ARCHIVE	book
-LIBUSEONLY MANUSCRPT	archival
-LIBUSEONLY MAP	map
-LIBUSEONLY MARC	book
-LIBUSEONLY MARC GREEN	microform
-LIBUSEONLY SERIAL	periodical
-LIBUSEONLY VM	multimedia
-NH-7DAY SCORE	score
-NH-7DAY SERIAL	periodical
-NH-7DAY RECORDING	multimedia
-NH-7DAY VM	multimedia
-NH-7DAY MAP	map
-NH-7DAY MRDF	multimedia
-NH-7DAY MARC	book
-NH-MEDSTKS SCORE	score
-NH-MEDSTKS SERIAL	periodical
-NH-MEDSTKS RECORDING	multimedia
-NH-MEDSTKS MAP	map
-NH-MEDSTKS MRDF	multimedia
-NH-MEDSTKS MARC	book
-NH-MEDSTKS VM	multimedia
-NH-INHOUSE MANUSCRPT	archival
-NH-INHOUSE MAP	map
-NH-INHOUSE MARC	book
-NH-INHOUSE MRDF	multimedia
-NH-INHOUSE RECORDING	multimedia
-NH-INHOUSE SCORE	score
-NH-INHOUSE SERIAL	periodical
-NH-INHOUSE TECHRPTS	book
-NH-INHOUSE VM	multimedia
+ITEM_TYPE	FORMAT	LIBRARY	folio_name
+*	*	*	book
+ARCHIVE	*	*	archival
+ARCHIVEREF	*	*	archival
+ATLAS	*	*	map
+ATLAS-EXP	*	*	map
+AUDIO	*	*	multimedia
+CAREERCOLL	*	*	book
+CJK	*	*	book
+CLUSTER	*	*	electronic resource
+DATABASE	*	*	electronic resource
+DVDCD	*	*	multimedia
+E-MONO	*	*	electronic resource
+E-PERI	*	*	electronic resource
+EASTK-DOC	*	*	book
+EDI-REMOVE	*	*	book
+EQUIP150	*	*	accessories 1
+EQUIP175	*	*	accessories 1
+EQUIP999	*	*	accessories 3
+EXPEDITION	*	*	archival
+GOVSTKS	*	*	book
+GUIDE	*	*	book
+INDEX	*	*	book
+KIT	*	*	kit
+LAW-CRES	*	*	book
+LAW-NEW	*	*	book
+LAW-PERBND	*	*	periodical
+LAW-STKS	*	*	book
+LCKSTK	*	*	book
+LCKSTK-EXP	*	*	book
+LCKSTK-PER	*	*	periodical
+LCKSTK-RST	*	*	archival
+LIBUSEONLY	MANUSCRPT	*	archival
+LIBUSEONLY	MANUSCRPT	HOOVER	archival
+LIBUSEONLY	MANUSCRPT	HV-ARCHIVE	archival
+LIBUSEONLY	MAP	*	map
+LIBUSEONLY	MAP	HOOVER	map
+LIBUSEONLY	MAP	HV-ARCHIVE	map
+LIBUSEONLY	MARC	*	book
+LIBUSEONLY	MARC	GREEN	microform
+LIBUSEONLY	MARC	HOOVER	book
+LIBUSEONLY	MARC	HV-ARCHIVE	book
+LIBUSEONLY	MRDF	HOOVER	electronic resource
+LIBUSEONLY	MRDF	HV-ARCHIVE	electronic resource
+LIBUSEONLY	RECORDING	HOOVER	multimedia
+LIBUSEONLY	RECORDING	HV-ARCHIVE	multimedia
+LIBUSEONLY	SCORE	HOOVER	score
+LIBUSEONLY	SCORE	HV-ARCHIVE	score
+LIBUSEONLY	SERIAL	*	periodical
+LIBUSEONLY	SERIAL	HOOVER	periodical
+LIBUSEONLY	SERIAL	HV-ARCHIVE	periodical
+LIBUSEONLY	VM	*	multimedia
+LIBUSEONLY	VM	HOOVER	book
+LIBUSEONLY	VM	HV-ARCHIVE	book
+MANUSCRIPT	*	*	archival
+MEDIA	*	*	multimedia
+MEDSTKS	*	*	multimedia
+MFICHE	*	*	microform
+MFILM	*	*	microform
+MICROFORM	*	*	microform
+NEWBOOK	*	*	book
+NEWSPAPER	*	*	periodical
+NH-7DAY	MAP	*	map
+NH-7DAY	MARC	*	book
+NH-7DAY	MRDF	*	multimedia
+NH-7DAY	RECORDING	*	multimedia
+NH-7DAY	SCORE	*	score
+NH-7DAY	SERIAL	*	periodical
+NH-7DAY	VM	*	multimedia
+NH-DVDCD	*	*	multimedia
+NH-EQP24HR	*	*	accessories 1
+NH-EQUIP	*	*	portable device 1
+NH-EQUIP1D	*	*	accessories 1
+NH-EQUIP4H	*	*	accessories 1
+NH-EQUIP7D	*	*	laptop
+NH-EQUP050	*	*	accessories 1
+NH-EQUP200	*	*	library equipment 3
+NH-EQUP400	*	*	portable device 1
+NH-EQUP600	*	*	av equipment 1
+NH-EQUP999	*	*	library equipment 3
+NH-INHOUSE	MANUSCRPT	*	archival
+NH-INHOUSE	MAP	*	map
+NH-INHOUSE	MARC	*	book
+NH-INHOUSE	MRDF	*	multimedia
+NH-INHOUSE	RECORDING	*	multimedia
+NH-INHOUSE	SCORE	*	score
+NH-INHOUSE	SERIAL	*	periodical
+NH-INHOUSE	TECHRPTS	*	book
+NH-INHOUSE	VM	*	multimedia
+NH-MAP	*	*	map
+NH-MEDSTKS	MAP	*	map
+NH-MEDSTKS	MARC	*	book
+NH-MEDSTKS	MRDF	*	multimedia
+NH-MEDSTKS	RECORDING	*	multimedia
+NH-MEDSTKS	SCORE	*	score
+NH-MEDSTKS	SERIAL	*	periodical
+NH-MEDSTKS	VM	*	multimedia
+NH-MICR	*	*	microform
+NH-PERI	*	*	periodical
+NH-PERMRES	*	*	accessories 1
+NH-RCORDNG	*	*	multimedia
+NH-RCRDNG2	*	*	multimedia
+NH-RESERVS	*	*	book
+NH-VIDGAMS	*	*	multimedia
+NONCIRC	*	*	book
+NONCIRC	MANUSCRPT	HOOVER	archival
+NONCIRC	MANUSCRPT	HV-ARCHIVE	archival
+NONCIRC	MAP	HOOVER	map
+NONCIRC	MAP	HV-ARCHIVE	map
+NONCIRC	MARC	HOOVER	book
+NONCIRC	MARC	HV-ARCHIVE	book
+NONCIRC	MRDF	HOOVER	electronic resource
+NONCIRC	MRDF	HV-ARCHIVE	electronic resource
+NONCIRC	RECORDING	HOOVER	multimedia
+NONCIRC	RECORDING	HV-ARCHIVE	multimedia
+NONCIRC	SCORE	HOOVER	score
+NONCIRC	SCORE	HV-ARCHIVE	score
+NONCIRC	SERIAL	HOOVER	periodical
+NONCIRC	SERIAL	HV-ARCHIVE	periodical
+NONCIRC	VM	HOOVER	book
+NONCIRC	VM	HV-ARCHIVE	book
+ONLINE	*	*	electronic resource
+PAGE-1DAY	*	*	book
+PERI	*	*	periodical
+PERI2	*	*	periodical
+PERI3	*	*	periodical
+PERI4	*	*	periodical
+PERIBND	*	*	periodical
+PERIUNBND	*	*	periodical
+POP-COLL	*	*	book
+RAUB-COLL	*	*	book
+REF	*	*	book
+REF	MANUSCRPT	HOOVER	archival
+REF	MAP	HOOVER	map
+REF	MARC	HOOVER	book
+REF	MRDF	HOOVER	electronic resource
+REF	RECORDING	HOOVER	multimedia
+REF	SCORE	HOOVER	score
+REF	SERIAL	HOOVER	periodical
+REF	VM	HOOVER	book
+SCORE	*	*	score
+SSRC-SSDS	*	*	book
+STAFF	*	*	book
+STKS	*	*	book
+STKS	MANUSCRPT	HOOVER	archival
+STKS	MANUSCRPT	HV-ARCHIVE	archival
+STKS	MAP	HOOVER	map
+STKS	MAP	HV-ARCHIVE	map
+STKS	MARC	HOOVER	book
+STKS	MARC	HV-ARCHIVE	book
+STKS	MRDF	HOOVER	electronic resource
+STKS	MRDF	HV-ARCHIVE	electronic resource
+STKS	RECORDING	HOOVER	multimedia
+STKS	RECORDING	HV-ARCHIVE	multimedia
+STKS	SCORE	HOOVER	score
+STKS	SCORE	HV-ARCHIVE	score
+STKS	SERIAL	HOOVER	periodical
+STKS	SERIAL	HV-ARCHIVE	periodical
+STKS	VM	HOOVER	book
+STKS	VM	HV-ARCHIVE	book
+STKS-MONO	*	*	book
+STKS-PERI	*	*	periodical
+STKS2	*	*	book
+STOR	*	*	book
+SUL	*	*	electronic resource
+THESIS	*	*	book
+THESIS-EXP	*	*	book
+TIMO-COLL	*	*	book
+VAULT	MANUSCRPT	HOOVER	archival
+VAULT	MANUSCRPT	HV-ARCHIVE	archival
+VAULT	MAP	HOOVER	map
+VAULT	MAP	HV-ARCHIVE	map
+VAULT	MARC	HOOVER	book
+VAULT	MARC	HV-ARCHIVE	book
+VAULT	MRDF	HOOVER	electronic resource
+VAULT	MRDF	HV-ARCHIVE	electronic resource
+VAULT	RECORDING	HOOVER	multimedia
+VAULT	RECORDING	HV-ARCHIVE	multimedia
+VAULT	SCORE	HOOVER	score
+VAULT	SCORE	HV-ARCHIVE	score
+VAULT	SERIAL	HOOVER	periodical
+VAULT	SERIAL	HV-ARCHIVE	periodical
+VAULT	VM	HOOVER	book
+VAULT	VM	HV-ARCHIVE	book
+VIDEOGAME	*	*	multimedia
