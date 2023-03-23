@@ -314,7 +314,7 @@
     },
     {
       "folio_field": "temporaryLocationId",
-      "legacy_field": "Not mapped",
+      "legacy_field": "CURRENTLOCATION",
       "value": "",
       "description": ""
     },
