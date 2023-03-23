@@ -20,7 +20,7 @@ ARTLCKO	Available
 ARTLCKO-R	Available
 ARTLCKS	Available
 ARTLCKS-R	Available
-ARTVAULT	Restricted
+ARTVAULT	Available
 ASK@EASIA	Available
 ASK@GSB	Unknown
 ASK@LANE	Unknown
@@ -84,9 +84,10 @@ CROTHERS	Available
 CURRENTPER	Available
 CURRICULUM	Available
 CURRSTOR	Available
+DOMESTIC	Available
 DSPLAY-1ST	Unavailable
 DSPLAY-2ND	Unavailable
-DOMESTIC	Available
+E-RESV	Intellectual item
 EAL-SETS	Available
 EAL-STKS-C	Available
 EAL-STKS-J	Available
@@ -106,10 +107,12 @@ ENG-LOAN	Awaiting pickup
 ENG-RESV	Available
 ENGDISPLAY	Available
 EQUIPMENT	Available
-EXPEDITION	Restricted
+EXPEDITION	Available
 EYLESAISLE	Available
 FACULTY	Available
 FED-DOCS	Available
+FED-DOCS-S	On order
+FED-DOCS-S	On order
 FELT-STOR	Available
 FELTON	Available
 FELTON-30	Available
@@ -174,12 +177,12 @@ INTL-DOCS	Available
 INTRANSIT	In transit
 JAPANESE	Available
 KOREAN	Available
-L-PAGE-EA	Restricted
+L-PAGE-EA	Available
 LAC	In process
 LANE-RESV	Available
 LANG-LAB	Available
 LANG-RESV	Available
-LAW-ARCHIV	Restricted
+LAW-ARCHIV	Available
 LAW-BIND	In process (non-requestable)
 LAW-CAREER	Restricted
 LAW-CIRC	Restricted
@@ -192,7 +195,7 @@ LCK-STOR	Available
 LCKBYTITL	Available
 LEWIS-COLL	Available
 LL-NEWS	Available
-LOAN-DESK	Restricted
+LOAN-DESK	Available
 LOCK-CHN	Available
 LOCK-HOLDS	Available
 LOCK-JPN	Available
@@ -213,10 +216,10 @@ MAP-REF	Available
 MAP-STOR	Available
 MAPS	Available
 MAT-LOAN	Awaiting pickup
-MATH-ARCH	Restricted
+MATH-ARCH	Available
 MATH-RESV	Available
-MATH-TECH	Restricted
-MATH-TEMP	Restricted
+MATH-TECH	Available
+MATH-TEMP	Available
 MEDIA	Available
 MEDIA-30	Available
 MEDIA-MTXT	Available
@@ -226,9 +229,9 @@ MEDIAX-30	Available
 MEDIEVALRM	Available
 MEMLIBMUS	Available
 MEY-LOAN	Awaiting pickup
-MEYER-RESV	Restricted
+MEYER-RESV	Available
+MEZZ-STOR	Available
 MEZZANINE	Available
-MEZZ-STOR	Restricted
 MICROFICHE	Available
 MICROFILM	Available
 MICROTEXT	Available
@@ -237,10 +240,10 @@ MISS-INPRO	Missing
 MISSING	Missing
 MM-ARTCAB	Available
 MM-BUSCAB	Available
-MM-DIZOCAB	Available
-MM-MATHCAB	Available
 MM-CDCAB	Available
 MM-CMPACT2	Available
+MM-DIZOCAB	Available
+MM-MATHCAB	Available
 MM-OVERSIZ	Available
 MM-STACKS	Available
 MP-CASE-LG	Available
@@ -253,7 +256,7 @@ MSS-30	Available
 MSSX	Available
 MSSX-30	Available
 MUS-LOAN	Awaiting pickup
-MUS-NOCIRC	Restricted
+MUS-NOCIRC	Available
 MUS-TXTBK	Available
 MUSIC-RESV	Available
 ND-PAGE-EA	Available
@@ -265,37 +268,37 @@ ON-ORDER	On order
 OPEN-RES	Available
 OUT-TRAVEL	Available
 OVERSIZED	Available
-PAGE-AR	Restricted
-PAGE-AS	Restricted
+PAGE-AR	Available
+PAGE-AS	Available
 PAGE-BU	Available
-PAGE-EA	Restricted
-PAGE-ED	Restricted
-PAGE-EN	Restricted
-PAGE-ES	Restricted
-PAGE-GR	Restricted
-PAGE-HA	Restricted
-PAGE-HP	Restricted
-PAGE-HV	Restricted
+PAGE-EA	Available
+PAGE-ED	Available
+PAGE-EN	Available
+PAGE-ES	Available
+PAGE-GR	Available
+PAGE-HA	Available
+PAGE-HP	Available
+PAGE-HV	Available
 PAGE-IRON	Available
 PAGE-IRON2	Available
 PAGE-LN	Available
 PAGE-LP	Available
-PAGE-LW	Restricted
-PAGE-MD	Restricted
+PAGE-LW	Available
+PAGE-MD	Available
 PAGE-MM	Available
 PAGE-MP	Available
-PAGE-MU	Restricted
-PAGE-RM	Restricted
-PAGE-SI	Restricted
-PAGE-SP	Restricted
-PAGE-TA	Restricted
-PERM-RES	Restricted
+PAGE-MU	Available
+PAGE-RM	Available
+PAGE-SI	Available
+PAGE-SP	Available
+PAGE-TA	Available
+PERM-RES	Available
 PERSIAN	Available
-PGDFROMSAL	Paged
+PGDFROMSAL	Missing
 PHOTO-PERM	Available
 PHY-LOAN	Awaiting pickup
-PHYS-RESV	Restricted
-PHYSTEMP	Restricted
+PHYS-RESV	Available
+PHYSTEMP	Available
 POPSCI	Available
 PUB-TECH	Available
 R-FOLIO	Available
@@ -340,16 +343,19 @@ SAL-PAGE	Available
 SAL-RETURN	In transit
 SAL-SERG	Available
 SAL-TEMP	Available
+SALDCPROJ1	On order
+SALDCPROJ1	Long missing
+SALDCPROJ2	Long missing
 SALTURKISH	Available
 SAMSON	Available
 SCBS	Available
-SCORES	Available
 SCI-LOAN	Awaiting pickup
 SCI-RESV	Available
 SCIFI	Available
+SCORES	Available
 SEE-ARCHIV	Available
 SEE-EASTA	Available
-SEE-LOAN	Awaiting pickup
+SEE-LOAN	Available
 SEE-OTHER	Unknown
 SERIALS	Available
 SETS	Available
@@ -373,13 +379,14 @@ SSRC-DATA	Available
 SSRC-DESK	Available
 SSRC-DOCS	Available
 SSRC-EDU	Available
+SSRC-FIC-S	On order
 SSRC-FICHE	Available
 SSRC-FILM	Available
 SSRC-NEWBK	Available
 SSRC-NWDOC	Available
 SSRC-SLS	Available
-SSRC-STATS	Available
 SSRC-SSDS	Available
+SSRC-STATS	Available
 STACKS	Available
 STACKS-1	Available
 STACKS-2	Available
@@ -388,10 +395,10 @@ STACKS-30	Available
 STACKS-BW	Unknown
 STAFF	Restricted
 STK-GEMS	Available
-STK-NOCIRC	Unavailable
-STK-SM	Available
-STK-MED	Available
 STK-LG	Available
+STK-MED	Available
+STK-NOCIRC	Available
+STK-SM	Available
 STK-XLG	Available
 STKS1-NEW	Available
 STORAGE	Available
@@ -400,7 +407,6 @@ STUDY-AIDS	Available
 SUL-BIND	In process (non-requestable)
 SUL-LOAN	Awaiting pickup
 SULBIND-WA	In process (non-requestable)
-E-RESV	Intellectual item
 SW-RESERVE-DESK	Available
 TAN-LOAN	Awaiting pickup
 TANN-RESV	Available
@@ -437,38 +443,38 @@ US-STATE	Available
 VARIES	Unknown
 VAULT	Available
 VROOMAN	Available
-VROOMAN2	Available
 VROOMAN-OV	Available
+VROOMAN2	Available
 W7-ATLASES	Available
 W7-BXLG-HM	Available
 W7-BXO	Available
 W7-BXSM-HM	Available
 W7-CASE-HM	Available
+W7-CASE-MD	Available
 W7-CASE-MP	Available
 W7-CASE-MT	Available
-W7-CASE-MD	Available
 W7-CATALOG	Available
 W7-CONSERV	Available
+W7-FOLIO	Available
+W7-FRAME	Available
 W7-M-CASES	Available
-W7-MAP-BXS	Available
 W7-MAP-BXL	Available
+W7-MAP-BXS	Available
 W7-MAP-XLG	Available
+W7-OBJECTS	Available
 W7-POCK-LG	Available
 W7-POCK-RG	Available
+W7-POCKET	Available
+W7-REF	Available
 W7-ROLLED	Available
 W7-SANBORN	Available
-W7-STK-SM	Available
-W7-STK-MED	Available
+W7-STAFF	Available
+W7-STFSHD	Available
 W7-STK-LG	Available
+W7-STK-MED	Available
+W7-STK-SM	Available
 W7-STK-XLG	Available
 W7-STKS	Available
 W7-STORAGE	Available
-W7-OBJECTS	Available
-W7-FOLIO	Available
-W7-REF	Available
-W7-STAFF	Available
-W7-STFSHD	Available
-W7-FRAME	Available
-W7-POCKET	Available
 WELLNESS	Available
 WEST-7B	Available
