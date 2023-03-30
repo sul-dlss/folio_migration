@@ -344,7 +344,7 @@
     },
     {
       "folio_field": "statisticalCodeIds",
-      "legacy_field": "ITEM_CAT1",
+      "legacy_field": "Not mapped",
       "value": "",
       "description": ""
     }
