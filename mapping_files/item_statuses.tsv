@@ -184,9 +184,9 @@ LANG-LAB	Available
 LANG-RESV	Available
 LAW-ARCHIV	Available
 LAW-BIND	In process (non-requestable)
-LAW-CAREER	Restricted
-LAW-CIRC	Restricted
-LAW-DSPLAY	Restricted
+LAW-CAREER	Available
+LAW-CIRC	Available
+LAW-DSPLAY	Available
 LAW-LOAN	Awaiting pickup
 LAW-RESV	Available
 LAW-REVIEW	Available
@@ -393,7 +393,7 @@ STACKS-2	Available
 STACKS-3	Available
 STACKS-30	Available
 STACKS-BW	Unknown
-STAFF	Restricted
+STAFF	Available
 STK-GEMS	Available
 STK-LG	Available
 STK-MED	Available
