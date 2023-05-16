@@ -366,7 +366,7 @@ SL3-LOAN	Awaiting pickup
 SLN-LOAN	Awaiting pickup
 SOUTH-MEZZ	Available
 SPE-LOAN	Awaiting pickup
-SPEC-INPRO	In process
+SPEC-INPRO	In process (non-requestable)
 SPEC-STOR	Unavailable
 SPECDESK	Available
 SSRC	Available
