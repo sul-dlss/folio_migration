@@ -25,7 +25,7 @@ ASK@EASIA	Available
 ASK@GSB	Unknown
 ASK@LANE	Unknown
 ASSMD-LOST	Available
-AT-REPAIR	In process (non-requestable)
+AT-REPAIR	In process
 ATCIRCDESK	Available
 ATLASES	Available
 AVAIL_SOON	Available
@@ -36,7 +36,7 @@ BASEMNT	Available
 BENDER	Available
 BIB-INDEX	Available
 BILLED-OD	Available
-BINDERY	In process (non-requestable)
+BINDERY	In process
 BIO-LOAN	Awaiting pickup
 BIO-RESV	Available
 BIO-TEMP	Available
@@ -87,7 +87,7 @@ CURRSTOR	Available
 DOMESTIC	Available
 DSPLAY-1ST	Unavailable
 DSPLAY-2ND	Unavailable
-E-RESV	Intellectual item
+E-RESV	Available
 EAL-SETS	Available
 EAL-STKS-C	Available
 EAL-STKS-J	Available
@@ -322,7 +322,7 @@ REF-JPN	Available
 REF-KOR	Available
 REF-SERIAL	Available
 REFERENCE	Available
-REPAIR	Unavailable
+REPAIR	In process
 RESEARCH	Available
 RESERVES	Available
 RESV-DESKS	Available
@@ -404,7 +404,7 @@ STKS1-NEW	Available
 STORAGE	Available
 STORBYTITL	Available
 STUDY-AIDS	Available
-SUL-BIND	In process (non-requestable)
+SUL-BIND	In process
 SUL-LOAN	Awaiting pickup
 SULBIND-WA	In process (non-requestable)
 SW-RESERVE-DESK	Available
@@ -440,7 +440,7 @@ UNDERGRAD	Available
 UNKNOWN	Unknown
 US-LOCAL	Available
 US-STATE	Available
-VARIES	Unknown
+VARIES	Available
 VAULT	Available
 VROOMAN	Available
 VROOMAN-OV	Available
