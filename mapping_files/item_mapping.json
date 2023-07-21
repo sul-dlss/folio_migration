@@ -284,7 +284,7 @@
     },
     {
       "folio_field": "permanentLocationId",
-      "legacy_field": "HOMELOCATION",
+      "legacy_field": "Not mapped",
       "value": "",
       "description": ""
     },
