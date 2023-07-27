@@ -59,7 +59,7 @@ MFICHE	*	*	microform
 MFILM	*	*	microform
 MICROFORM	*	*	microform
 NEWBOOK	*	*	book
-NEWSPAPER	*	*	periodical
+NEWSPAPER	*	*	newspaper
 NH-7DAY	MAP	*	map
 NH-7DAY	MARC	*	book
 NH-7DAY	MRDF	*	multimedia
