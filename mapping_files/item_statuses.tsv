@@ -8,10 +8,16 @@ legacy_code	folio_name
 3RDFLR-REF	Available
 ACAD-DATA	Available
 ARABIC	Available
+ARS-INPROCESS	Available
 ARS-LOAN	Awaiting pickup
+ARS-SPECIALPROJECTS	Available
+ARS-WD-DIGITAL-SUB	Available
 ART-AT-ENG	Available
 ART-LOAN	Awaiting pickup
+ART-PAGE-AR	Available
 ART-RESV	Available
+ART-SHADOW	Available
+ART-WD-DIGITAL-SUB	Available
 ARTLCKL	Available
 ARTLCKL-R	Available
 ARTLCKM	Available
@@ -50,11 +56,15 @@ BUS-COMPF	Available
 BUS-LOAN	Awaiting pickup
 BUS-LOCKED	Available
 BUS-MAKENA	Available
+BUS-NEWBOOK	Available
+BUS-PAGE-BU	Available
 BUS-PER	Available
 BUS-POP	Available
 BUS-RESV	Available
+BUS-SHADOW	Available
 BUS-STACKS	Available
 BUS-TEMP	Available
+BUS-WD-DIGITAL-SUB	Available
 BUSDISPLAY	Available
 CALIF-DOCS	Available
 CASE-MP	Available
@@ -74,6 +84,7 @@ CHECKSHELF	Available
 CHEM-RESV	Available
 CHINESE	Available
 CHKD-OUT-D	Available
+CLA-WD-DIGITAL-SUB	Available
 COLL-WORKS	Available
 COMPACT	Available
 COOKBOOK	Available
@@ -88,31 +99,58 @@ DOMESTIC	Available
 DSPLAY-1ST	Unavailable
 DSPLAY-2ND	Unavailable
 E-RESV	Available
+EAL-COURTESY-HOLD	Available
+EAL-CURRENTPER	Available
+EAL-INPROCESS	Available
+EAL-PAGE-EA	Available
+EAL-SCANREVIEW	Available
 EAL-SETS	Available
+EAL-SHADOW	Available
 EAL-STKS-C	Available
 EAL-STKS-J	Available
 EAL-STKS-K	Available
+EAL-WD-DIGITAL-SUB	Available
 EALSAL-CHN	Available
 EALSAL-JPN	Available
 EALSAL-KOR	Available
+EAR-DISPLAY-CIRC	Available
+EAR-DISPLAY-MEZZ	Available
 EAR-LOAN	Awaiting pickup
+EAR-PAGE-ES	Available
+EAR-PAGE-MP	Available
+EAR-PROCESSING-AP	Available
+EAR-PROCESSING-JC	Available
+EAR-PROCESSING-PG	Available
+EAR-PROCESSING-TR	Available
+EAR-SCANLAB	Available
+EAR-SHADOW	Available
+EAR-SPECIALPROJECTS	Available
+EAR-WD-DIGITAL-SUB	Available
 EARTH-RESV	Available
 EAS-LOAN	Awaiting pickup
 EAS-RESV	Available
 EDI	In process
+EDU-EXHIBIT	Available
 EDU-LOAN	Awaiting pickup
+EDU-PAGE-ED	Available
+EDU-PROCESSING	Available
 EDU-RESV	Available
+EDU-SHADOW	Available
+EDU-WD-DIGITAL-SUB	Available
 ENDPROCESS	In process
 ENG-LOAN	Awaiting pickup
+ENG-PAGE-EN	Available
 ENG-RESV	Available
+ENG-SHADOW	Available
+ENG-TECH-PROCESSOR	Available
+ENG-WD-DIGITAL-SUB	Available
 ENGDISPLAY	Available
 EQUIPMENT	Available
 EXPEDITION	Available
 EYLESAISLE	Available
 FACULTY	Available
 FED-DOCS	Available
-FED-DOCS-S	On order
-FED-DOCS-S	On order
+FED-DOCS-S	Available
 FELT-STOR	Available
 FELTON	Available
 FELTON-30	Available
@@ -127,8 +165,16 @@ FOREIGN	Available
 FORN-DOCS	Available
 FRECOT	Available
 GADGETBAR	Available
+GAMES	Available
 GOLDSTAR	Available
+GRE-COURTESY-HOLD	Available
 GRE-LOAN	Awaiting pickup
+GRE-PAGE-GR	Available
+GRE-PROCESSING	Available
+GRE-REPAIR-EVALUATION	Available
+GRE-SHADOW	Available
+GRE-TECH-PROCESSOR	Available
+GRE-WD-DIGITAL-SUB	Available
 GREEN-RESV	Available
 GSB-RESV	Available
 GUNST	Available
@@ -145,6 +191,10 @@ HAS-NEWBK	Available
 HAS-RR	Available
 HAS-SU	Available
 HASRC	Available
+HILA-ARCHIVAL-PROCESSING	Available
+HILA-CAT-BACKLOG	Available
+HILA-PRESERVATION	Available
+HILA-SHADOW	Available
 HMS-PAGE	In transit
 HMS-RETURN	In transit
 HOLDS	Awaiting pickup
@@ -179,6 +229,7 @@ JAPANESE	Available
 KOREAN	Available
 L-PAGE-EA	Available
 LAC	In process
+LANE-NEWS	Available
 LANE-RESV	Available
 LANG-LAB	Available
 LANG-RESV	Available
@@ -190,7 +241,10 @@ LAW-DSPLAY	Available
 LAW-LOAN	Awaiting pickup
 LAW-RESV	Available
 LAW-REVIEW	Available
+LAW-SHADOW	Available
+LAW-SHADOW-ORD	Available
 LAW-SPEC	Available
+LAW-WD-DIGITAL-SUB	Available
 LCK-STOR	Available
 LCKBYTITL	Available
 LEWIS-COLL	Available
@@ -208,6 +262,7 @@ LOST-ASSUM	Available
 LOST-CLAIM	Available
 LOST-PAID	Lost and paid
 MAGAZINE	Available
+MAKERBAR	Available
 MANNING	Available
 MANUSCRIPT	Available
 MAP-CASES	Available
@@ -215,6 +270,8 @@ MAP-FILE	Available
 MAP-REF	Available
 MAP-STOR	Available
 MAPS	Available
+MAR-PAGE-HP	Available
+MAR-WD-DIGITAL-SUB	Available
 MAT-LOAN	Awaiting pickup
 MATH-ARCH	Available
 MATH-RESV	Available
@@ -222,8 +279,14 @@ MATH-TECH	Available
 MATH-TEMP	Available
 MEDIA	Available
 MEDIA-30	Available
+MEDIA-EXHIBIT	Available
 MEDIA-MTXT	Available
+MEDIA-PAGE-MD	Available
+MEDIA-REPAIR-SHELF	Available
 MEDIA-RESV	Available
+MEDIA-SHADOW	Available
+MEDIA-TECH-PROCESSOR	Available
+MEDIA-WD-DIGITAL-SUB	Available
 MEDIAX	Available
 MEDIAX-30	Available
 MEDIEVALRM	Available
@@ -255,9 +318,14 @@ MSS-20	Available
 MSS-30	Available
 MSSX	Available
 MSSX-30	Available
+MUS-INPROCESS	Available
 MUS-LOAN	Awaiting pickup
 MUS-NOCIRC	Available
+MUS-PAGE-LP	Available
+MUS-PAGE-MU	Available
+MUS-SHADOW	Available
 MUS-TXTBK	Available
+MUS-WD-DIGITAL-SUB	Available
 MUSIC-RESV	Available
 ND-PAGE-EA	Available
 NEWBOOKS	Available
@@ -330,6 +398,10 @@ RET-REF	Available
 ROB-STOR	Available
 ROBINSON	Available
 RUM-LOAN	Awaiting pickup
+RUM-PAGE-RM	Available
+RUM-SCANLAB	Available
+RUM-SHADOW	Available
+RUM-WD-DIGITAL-SUB	Available
 RUMSEY	Available
 RUMSEYREF	Available
 RUMXEMPLAR	Available
@@ -339,27 +411,40 @@ SAL-ARABIC	Available
 SAL-FOLIO	Available
 SAL-LOAN	Awaiting pickup
 SAL-MUSIC	Available
+SAL-NEWARK	Available
 SAL-PAGE	Available
+SAL-PAGE-EA	Available
+SAL-PAGE-GR	Available
 SAL-RETURN	In transit
 SAL-SERG	Available
+SAL-SHADOW	Available
 SAL-TEMP	Available
+SAL-WD-DIGITAL-SUB	Available
+SAL3-PAGE-FC	Available
+SAL3-SHADOW	Available
+SAL3-WD-DIGITAL-SUB	Available
 SALDCPROJ1	On order
 SALDCPROJ1	Long missing
 SALDCPROJ2	Long missing
+SALN-WD-DIGITAL-SUB	Available
 SALTURKISH	Available
 SAMSON	Available
 SCBS	Available
 SCI-LOAN	Awaiting pickup
 SCI-RESV	Available
+SCI-SHADOW	Available
+SCI-WD-DIGITAL-SUB	Available
 SCIFI	Available
 SCORES	Available
 SEE-ARCHIV	Available
 SEE-EASTA	Available
 SEE-LOAN	Available
 SEE-OTHER	Unknown
+SEL-NOTIFY	Long missing
 SERIALS	Available
 SETS	Available
 SGC	Available
+SHADOW-ORD	Available
 SHELBYSER	Available
 SHELBYTITL	Available
 SL3-LOAN	Awaiting pickup
@@ -367,6 +452,10 @@ SLN-LOAN	Awaiting pickup
 SOUTH-MEZZ	Available
 SPE-LOAN	Awaiting pickup
 SPEC-INPRO	In process (non-requestable)
+SPEC-INPROCESS	In process (non-requestable)
+SPEC-INPROCESS-RWC	In process (non-requestable)
+SPEC-INPROCESS-UA	In process (non-requestable)
+SPEC-PAGE-FC	Available
 SPEC-STOR	Unavailable
 SPECDESK	Available
 SSRC	Available
@@ -394,6 +483,7 @@ STACKS-3	Available
 STACKS-30	Available
 STACKS-BW	Unknown
 STAFF	Available
+STAFSHADOW	Available
 STK-GEMS	Available
 STK-LG	Available
 STK-MED	Available
@@ -406,9 +496,22 @@ STORBYTITL	Available
 STUDY-AIDS	Available
 SUL-BIND	In process
 SUL-LOAN	Awaiting pickup
+SUL-SHADOW	Available
+SUL-SHADOW-ORD	Available
+SUL-TS-CC-BINDERYPREP	Available
+SUL-TS-CC-BOOKJACKET	Available
+SUL-TS-CC-KASEMAKE	Available
+SUL-TS-CC-REPAIR	Available
+SUL-TS-CC-SPECIALPROJECTS	Available
+SUL-TS-COLLECTIONCARE	Available
+SUL-TS-CONSERVATIONSERVICES	Available
+SUL-TS-MAINTENANCE	Available
+SUL-TS-PROCESSING	Available
+SUL-WD-DIGITAL-SUB	Available
 SULBIND-WA	In process (non-requestable)
 SW-RESERVE-DESK	Available
 TAN-LOAN	Awaiting pickup
+TAN-REF-DESK	Available
 TANN-RESV	Available
 TAUBE	Available
 TECH-ACQ	Unavailable
@@ -478,102 +581,4 @@ W7-STKS	Available
 W7-STORAGE	Available
 WELLNESS	Available
 WEST-7B	Available
-ARS-WD-DIGITAL-SUB	Available
-ART-WD-DIGITAL-SUB	Available
-BUS-WD-DIGITAL-SUB	Available
-CLA-WD-DIGITAL-SUB	Available
-EAL-WD-DIGITAL-SUB	Available
-EAR-WD-DIGITAL-SUB	Available
-EDU-WD-DIGITAL-SUB	Available
-ENG-WD-DIGITAL-SUB	Available
-GRE-WD-DIGITAL-SUB	Available
-LAW-WD-DIGITAL-SUB	Available
-MAR-WD-DIGITAL-SUB	Available
-MEDIA-WD-DIGITAL-SUB	Available
-MUS-WD-DIGITAL-SUB	Available
-RUM-WD-DIGITAL-SUB	Available
-SAL-WD-DIGITAL-SUB	Available
-SAL3-WD-DIGITAL-SUB	Available
-SCI-WD-DIGITAL-SUB	Available
-SUL-TS-MAINTENANCE	Available
-SUL-TS-PROCESSING	Available
-SUL-TS-COLLECTIONCARE	Available
-SUL-TS-CC-SPECIALPROJECTS	Available
-SUL-TS-CC-REPAIR	Available
-SUL-TS-CC-KASEMAKE	Available
-SUL-TS-CC-BOOKJACKET	Available
-SUL-TS-CC-BINDERYPREP	Available
-BUS-NEWBOOK	Available
-HILA-ARCHIVAL-PROCESSING	Available
-HILA-CAT-BACKLOG	Available
-HILA-PRESERVATION	Available
-SEL-NOTIFY	Long missing
-SPEC-INPROCESS	In process (non-requestable)
-SPEC-INPROCESS-RWC	In process (non-requestable)
-SPEC-INPROCESS-UA	In process (non-requestable)
-SHADOW-ORD	Available
-LAW-SHADOW-ORD	Available
-SUL-SHADOW-ORD	Available
-SUL-TS-CONSERVATIONSERVICES	Available
-SUL-TS-MAINTENANCE	Available
-SUL-TS-PROCESSING	Available
-SUL-TS-COLLECTIONCARE	Available
-SUL-TS-CC-SPECIALPROJECTS	Available
-SUL-TS-CC-REPAIR	Available
-SUL-TS-CC-KASEMAKE	Available
-SUL-TS-CC-BOOKJACKET	Available
-SUL-TS-CC-BINDERYPREP	Available
-SUL-TS-CONSERVATIONSERVICES	Available
-MUS-INPROCESS	Available
-ARS-INPROCESS	Available
-EAL-INPROCESS	Available
-BUS-PAGE-BU	Available
-ART-PAGE-AR	Available
-EAR-PAGE-ES	Available
-SAL-PAGE-EA	Available
-EDU-PAGE-ED	Available
-ENG-PAGE-EN	Available
-GRE-PAGE-GR	Available
-RUM-PAGE-RM	Available
-MAR-PAGE-HP	Available
-MUS-PAGE-MU	Available
-MEDIA-PAGE-MD	Available
-EAR-PAGE-MP	Available
-MUS-PAGE-LP	Available
-SPEC-PAGE-FC	Available
-SAL3-PAGE-FC	Available
-EAL-PAGE-EA	Available
-SAL-PAGE-GR	Available
-GRE-TECH-PROCESSOR	Available
-GRE-COURTESY-HOLD	Available
-GRE-PROCESSING	Available
-GRE-REPAIR-EVALUATION	Available
-MEDIA-TECH-PROCESSOR	Available
-MEDIA-EXHIBIT	Available
-MEDIA-REPAIR-SHELF	Available
-EDU-PROCESSING	Available
-EDU-EXHIBIT	Available
-EAR-SPECIALPROJECTS	Available
-EAR-PROCESSING-JC	Available
-EAR-PROCESSING-PG	Available
-EAR-PROCESSING-TR	Available
-EAR-PROCESSING-AP	Available
-EAR-DISPLAY-CIRC	Available
-EAR-DISPLAY-MEZZ	Available
-EAR-SCANLAB	Available
-RUM-SCANLAB	Available
-ENG-TECH-PROCESSOR	Available
-ARS-SPECIALPROJECTS	Available
-TAN-REF-DESK	Available
-EAL-SCANREVIEW	Available
-EAL-COURTESY-HOLD	Available
 WITHDRAWN	Withdrawn
-SALN-WD-DIGITAL-SUB	Available
-SUL-WD-DIGITAL-SUB	Available
-SAL-NEWARK	Available
-STAFSHADOW	Available
-STAFF	Available
-LANE-NEWS	Available
-MAKERBAR	Available
-GAMES	Available
-EAL-CURRENTPER	Available
